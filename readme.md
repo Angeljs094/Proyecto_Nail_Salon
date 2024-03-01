@@ -1,5 +1,5 @@
 ## SOMOS LA EMPRESA NAILS CONSULTING 
-![Imagen de NAILS](https://github.com/Angeljs094/Proyecto_Nail_Salon/Proyecto-Final/blob/main/img/nails.jfif)
+![Imagen de NAILS](https://github.com/Angeljs094/Proyecto_Nail_Salon/Proyecto-Final/main/img/nails.jfif)
 
 Somos una empresa líder en el análisis de datos, ingenieria de datos y ciencia de datos que se especializa en ayudar a organizaciones de diversos sectores a aprovechar al máximo sus datos para obtener información significativa y tomar decisiones estratégicas fundamentadas. Nuestro equipo de expertos en datos combina habilidades técnicas avanzadas con un profundo conocimiento del negocio para ofrecer soluciones personalizadas que impulsen el éxito de nuestros clientes.
 
@@ -36,7 +36,7 @@ En resumen, la creación de una "Plataforma de Asesoramiento en Belleza y Bienes
 Scrum es un marco ágil que se enfoca en la entrega iterativa y flexible de proyectos. Los roles clave incluyen al Product Owner, quien representa las necesidades del cliente, al Scrum Master, que facilita el proceso, y al Equipo de Desarrollo, encargado de ejecutar el trabajo. Scrum se centra en eventos clave como los Sprints, reuniones de planificación y revisiones, y artefactos como el Product Backlog y el Sprint Backlog para proporcionar transparencia, adaptabilidad y colaboración continua en la gestión de proyectos.
 
 # Cronograma de Gantt 
-![imagen de cronograma gantt](https://github.com/Angeljs094/Proyecto-Final/blob/main/img/Diagrama de Gantt.png)
+![imagen de cronograma gantt](https://github.com/Angeljs094/Proyecto-Final/blob/main/img/Diagrama_de_Gantt.png)
 
 # Tecnologias a usar 
 ![Imagen de cloud](https://github.com/Angeljs094/Proyecto_Nail_Salon/blob/main/img/cloud.jpg)
