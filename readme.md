@@ -58,16 +58,16 @@ Scrum es un marco ágil que se enfoca en la entrega iterativa y flexible de proy
 * Data scientist: Juan y JOse 
 
 # Modelos Entidad relación 
-![Imagen de ER](https://github.com/Angeljs094/Proyecto_Nail_Salon/tree/main/img/ER.png)
+![Imagen_de_ER](https://github.com/Angeljs094/Proyecto_Nail_Salon/tree/main/img/ER.png)
 
 # ETL
-![Imagen de ETL](https://github.com/Angeljs094/Proyecto_Nail_Salon/tree/main/img/ETL2.jpg)
+![Imagen_de_ETL](https://github.com/Angeljs094/Proyecto_Nail_Salon/tree/main/img/ETL2.jpg)
 
 # Procesos en GCP
-![Imagen de GCP](https://github.com/Angeljs094/Proyecto_Nail_Salon/tree/main/img/cloud_gcp.jpg)
+![Imagen_de_GCP](https://github.com/Angeljs094/Proyecto_Nail_Salon/tree/main/img/cloud_gcp.jpg)
 
 # Analytics
-![Imagen de Analitica](https://github.com/Angeljs094/Proyecto_Nail_Salon/tree/main/img/analisis.jpg)
+![Imagen_de_Analitica](https://github.com/Angeljs094/Proyecto_Nail_Salon/tree/main/img/analisis.jpg)
 
 # Modelo de ML 
-![Imagen de ML](https://github.com/Angeljs094/Proyecto_Nail_Salon/tree/main/img/ML.jpg)
+![Imagen_de_ML](https://github.com/Angeljs094/Proyecto_Nail_Salon/tree/main/img/ML.jpg)
