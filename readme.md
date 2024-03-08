@@ -1,5 +1,8 @@
 ## SOMOS LA EMPRESA NAILS CONSULTING 
-![Imagen de NAILS](https://github.com/Angeljs094/Proyecto_Nail_Salon/Proyecto-Final/main/img/nails.jfif)
+
+![Imagen de logo](https://github.com/Angeljs094/Proyecto_Nail_Salon/blob/main/img/logo.jpeg)
+
+![Imagen de NAILS](https://github.com/Angeljs094/Proyecto_Nail_Salon/blob/main/img/nails.jfif)
 
 Somos una empresa líder en el análisis de datos, ingenieria de datos y ciencia de datos que se especializa en ayudar a organizaciones de diversos sectores a aprovechar al máximo sus datos para obtener información significativa y tomar decisiones estratégicas fundamentadas. Nuestro equipo de expertos en datos combina habilidades técnicas avanzadas con un profundo conocimiento del negocio para ofrecer soluciones personalizadas que impulsen el éxito de nuestros clientes.
 
@@ -20,7 +23,7 @@ El alcance inicial del proyecto estará limitado al estado de Florida, abarcando
 # Datos Temporales:
 La recopilación y análisis de datos se centrará en el período de 2018 a 2022. Esto permitirá una comprensión detallada de las tendencias y cambios en la industria de la belleza en el transcurso de estos años
 # Usuarios Objetivo:
- Los usuarios objetivo serán aquellos que buscan servicios de manicura en el estado de Florida durante el período mencionado y los salones nails de estado de florida. La plataforma estará diseñada para adaptarse a las preferencias y comportamientos específicos de los consumidores en esta región.
+ Los usuarios objetivo serán aquellos que buscan servicios de manicura en el estado de Florida durante el período mencionado del estado de florida. La plataforma estará diseñada para adaptarse a las preferencias y comportamientos específicos de los consumidores en esta región.
 # Expansión Geográfica:
 En un futuro después de una fase exitosa en Florida, se contempla la posibilidad de expandir la plataforma a otros estados de los Estados Unidos. También considerará la integración de nuevos servicios de belleza y bienestar para proporcionar una solución integral a los usuarios
 
@@ -36,7 +39,7 @@ En resumen, la creación de una "Plataforma de Asesoramiento en Belleza y Bienes
 Scrum es un marco ágil que se enfoca en la entrega iterativa y flexible de proyectos. Los roles clave incluyen al Product Owner, quien representa las necesidades del cliente, al Scrum Master, que facilita el proceso, y al Equipo de Desarrollo, encargado de ejecutar el trabajo. Scrum se centra en eventos clave como los Sprints, reuniones de planificación y revisiones, y artefactos como el Product Backlog y el Sprint Backlog para proporcionar transparencia, adaptabilidad y colaboración continua en la gestión de proyectos.
 
 # Cronograma de Gantt 
-![imagen de cronograma gantt](https://github.com/Angeljs094/Proyecto-Final/blob/main/img/Diagrama_de_Gantt.png)
+![imagen de cronograma gantt](https://github.com/Angeljs094/Proyecto_Nail_Salon/blob/main/img/Diagrama de Gantt.png)
 
 # Tecnologias a usar 
 ![Imagen de cloud](https://github.com/Angeljs094/Proyecto_Nail_Salon/blob/main/img/cloud.jpg)
@@ -54,3 +57,17 @@ Scrum es un marco ágil que se enfoca en la entrega iterativa y flexible de proy
 * Analista de datos: Katia y Bryam 
 * Data scientist: Juan y JOse 
 
+# Modelos Entidad relación 
+![Imagen de ER](https://github.com/Angeljs094/Proyecto_Nail_Salon/tree/main/img/ER.png)
+
+# ETL
+![Imagen de ETL](https://github.com/Angeljs094/Proyecto_Nail_Salon/tree/main/img/ETL2.jpg)
+
+# Procesos en GCP
+![Imagen de GCP](https://github.com/Angeljs094/Proyecto_Nail_Salon/tree/main/img/cloud_gcp.jpg)
+
+# Analytics
+![Imagen de Analitica](https://github.com/Angeljs094/Proyecto_Nail_Salon/tree/main/img/analisis.jpg)
+
+# Modelo de ML 
+![Imagen de ML](https://github.com/Angeljs094/Proyecto_Nail_Salon/tree/main/img/ML.jpg)
