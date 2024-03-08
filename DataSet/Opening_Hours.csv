@@ -1,0 +1,475 @@
+hours,open_hours_id
+"{'Tuesday': '9:30-19:0', 'Wednesday': '9:30-19:0', 'Thursday': '9:30-19:0', 'Friday': '9:30-19:0', 'Saturday': '9:30-19:0', 'Sunday': '10:0-17:0'}",a1
+"{'Monday': '9:30-19:0', 'Wednesday': '9:30-19:0', 'Thursday': '9:30-19:0', 'Friday': '9:30-19:0', 'Saturday': '9:30-19:0', 'Sunday': '11:0-17:0'}",a2
+"{'Monday': '0:0-0:0', 'Tuesday': '8:0-16:0', 'Wednesday': '9:0-18:0', 'Thursday': '9:0-19:0', 'Friday': '9:0-19:0', 'Saturday': '9:0-19:0', 'Sunday': '11:0-17:0'}",a3
+"{'Monday': '0:0-0:0', 'Tuesday': '9:0-20:0', 'Wednesday': '9:0-20:0', 'Thursday': '9:0-20:0', 'Friday': '9:0-19:0', 'Saturday': '9:0-17:0'}",a4
+"{'Tuesday': '12:0-20:0', 'Wednesday': '12:0-20:0', 'Thursday': '12:0-20:0', 'Friday': '10:0-18:0', 'Saturday': '9:0-17:0'}",a5
+"{'Tuesday': '9:0-19:30', 'Wednesday': '9:0-19:30', 'Thursday': '9:0-19:30', 'Friday': '9:0-18:0', 'Saturday': '9:0-17:0'}",a6
+"{'Monday': '9:0-19:0', 'Tuesday': '9:0-19:0', 'Wednesday': '9:0-19:0', 'Thursday': '9:0-19:0', 'Friday': '9:0-19:0', 'Saturday': '9:0-18:0'}",a7
+"{'Tuesday': '9:0-20:0', 'Wednesday': '9:0-20:0', 'Thursday': '9:0-20:0', 'Friday': '9:0-19:0', 'Saturday': '9:0-17:0'}",a8
+"{'Monday': '8:0-20:0', 'Tuesday': '8:0-20:0', 'Wednesday': '8:0-20:0', 'Thursday': '8:0-20:0', 'Friday': '8:0-20:0', 'Saturday': '8:0-20:0', 'Sunday': '8:0-17:0'}",a9
+"{'Monday': '0:0-0:0', 'Tuesday': '9:30-17:30', 'Wednesday': '9:30-17:30', 'Thursday': '9:30-17:30', 'Friday': '9:30-17:30', 'Saturday': '10:0-14:0'}",a10
+"{'Monday': '10:0-21:0', 'Tuesday': '10:0-21:0', 'Wednesday': '10:0-21:0', 'Thursday': '10:0-21:0', 'Friday': '10:0-21:0', 'Saturday': '10:0-21:0', 'Sunday': '12:0-19:0'}",a11
+"{'Monday': '9:0-19:30', 'Tuesday': '9:0-19:30', 'Wednesday': '9:0-19:30', 'Thursday': '9:0-19:30', 'Friday': '9:0-19:30', 'Saturday': '9:0-19:30', 'Sunday': '11:0-17:0'}",a12
+"{'Monday': '10:0-18:30', 'Tuesday': '10:0-18:30', 'Wednesday': '10:0-18:30', 'Thursday': '10:0-18:30', 'Friday': '9:30-18:0', 'Saturday': '9:30-18:0'}",a13
+"{'Monday': '0:0-0:0', 'Tuesday': '9:30-19:30', 'Wednesday': '9:30-19:30', 'Thursday': '9:30-19:30', 'Friday': '9:30-19:30', 'Saturday': '9:0-18:0', 'Sunday': '11:0-17:0'}",a14
+"{'Monday': '0:0-0:0', 'Tuesday': '9:30-19:30', 'Wednesday': '9:30-19:30', 'Thursday': '9:30-19:30', 'Friday': '9:30-19:30', 'Saturday': '9:30-18:30', 'Sunday': '11:0-17:0'}",a15
+"{'Monday': '0:0-0:0', 'Tuesday': '9:30-19:0', 'Wednesday': '9:30-19:0', 'Thursday': '9:30-19:0', 'Friday': '9:30-18:0', 'Saturday': '9:30-19:0', 'Sunday': '11:0-17:0'}",a16
+"{'Monday': '9:0-19:30', 'Tuesday': '9:0-19:30', 'Wednesday': '9:0-19:30', 'Thursday': '9:0-19:30', 'Friday': '9:0-19:30', 'Saturday': '9:0-19:30', 'Sunday': '11:0-16:30'}",a17
+"{'Monday': '9:30-19:0', 'Tuesday': '9:30-19:0', 'Wednesday': '9:30-19:0', 'Thursday': '9:30-19:0', 'Friday': '9:30-19:0', 'Saturday': '9:30-18:0'}",a18
+"{'Monday': '9:0-19:0', 'Tuesday': '9:0-19:0', 'Wednesday': '9:0-19:0', 'Thursday': '9:0-19:0', 'Friday': '9:0-19:0', 'Saturday': '9:0-19:0'}",a19
+"{'Monday': '9:0-20:0', 'Tuesday': '9:0-20:0', 'Wednesday': '9:0-20:0', 'Thursday': '9:0-20:0', 'Friday': '9:0-20:0', 'Saturday': '9:0-20:0', 'Sunday': '11:0-17:0'}",a20
+"{'Monday': '10:0-21:0', 'Tuesday': '10:0-21:0', 'Wednesday': '10:0-21:0', 'Thursday': '10:0-21:0', 'Friday': '10:0-21:0', 'Saturday': '10:0-21:0', 'Sunday': '11:0-18:0'}",a21
+"{'Monday': '9:0-19:0', 'Tuesday': '9:0-19:0', 'Wednesday': '9:0-19:0', 'Thursday': '9:0-19:0', 'Friday': '9:0-19:0', 'Saturday': '9:0-19:0', 'Sunday': '11:0-17:0'}",a22
+"{'Monday': '10:0-19:30', 'Tuesday': '10:0-19:30', 'Wednesday': '10:0-19:30', 'Thursday': '10:0-19:30', 'Friday': '10:0-19:30', 'Saturday': '10:0-18:30', 'Sunday': '11:0-17:0'}",a23
+"{'Monday': '0:0-0:0', 'Tuesday': '9:30-19:0', 'Wednesday': '9:30-19:0', 'Thursday': '9:30-19:0', 'Friday': '9:30-19:0', 'Saturday': '9:30-18:30', 'Sunday': '11:0-17:0'}",a24
+"{'Monday': '0:0-0:0', 'Tuesday': '10:0-19:0', 'Wednesday': '10:0-19:0', 'Thursday': '10:0-19:0', 'Friday': '10:0-19:0', 'Saturday': '8:0-17:0'}",a25
+"{'Monday': '9:30-20:0', 'Tuesday': '9:30-20:0', 'Wednesday': '9:30-20:0', 'Thursday': '9:30-20:0', 'Friday': '9:30-20:0', 'Saturday': '9:30-20:0', 'Sunday': '10:0-18:0'}",a26
+"{'Monday': '9:30-19:30', 'Tuesday': '9:30-19:30', 'Wednesday': '9:30-19:30', 'Thursday': '9:30-19:30', 'Friday': '9:30-19:30', 'Saturday': '9:0-19:0', 'Sunday': '11:0-17:0'}",a27
+"{'Monday': '0:0-0:0', 'Tuesday': '9:30-18:30', 'Wednesday': '9:30-18:30', 'Thursday': '9:30-18:30', 'Friday': '9:30-18:30', 'Saturday': '9:30-18:0', 'Sunday': '0:0-0:30'}",a28
+"{'Monday': '10:0-19:30', 'Wednesday': '10:0-19:30', 'Thursday': '10:0-19:30', 'Friday': '10:0-19:30', 'Saturday': '10:0-19:30', 'Sunday': '11:0-16:0'}",a29
+"{'Monday': '9:30-19:30', 'Tuesday': '9:30-19:30', 'Wednesday': '9:30-19:30', 'Thursday': '9:30-19:30', 'Friday': '9:30-19:30', 'Saturday': '9:30-19:30', 'Sunday': '11:0-17:0'}",a30
+"{'Monday': '0:0-0:0', 'Tuesday': '9:0-17:0', 'Wednesday': '9:0-18:0', 'Thursday': '12:0-20:0', 'Friday': '12:0-20:0', 'Saturday': '9:0-18:0'}",a31
+"{'Monday': '7:0-20:0', 'Tuesday': '7:0-20:0', 'Wednesday': '7:0-20:0', 'Thursday': '7:0-20:0', 'Friday': '7:0-20:0', 'Saturday': '7:0-20:0'}",a32
+"{'Monday': '9:30-19:30', 'Tuesday': '9:30-19:30', 'Wednesday': '9:30-19:30', 'Thursday': '9:30-19:30', 'Friday': '9:30-19:30', 'Saturday': '9:0-18:30', 'Sunday': '11:0-17:0'}",a33
+"{'Monday': '10:0-19:30', 'Tuesday': '10:0-19:30', 'Wednesday': '10:0-19:30', 'Thursday': '10:0-19:30', 'Friday': '10:0-19:30', 'Saturday': '9:0-19:0', 'Sunday': '11:0-16:30'}",a34
+"{'Monday': '10:0-20:0', 'Tuesday': '10:0-20:0', 'Wednesday': '10:0-20:0', 'Thursday': '10:0-20:0', 'Friday': '10:0-20:0', 'Saturday': '10:0-20:0', 'Sunday': '11:0-17:0'}",a35
+"{'Monday': '10:0-19:0', 'Tuesday': '10:0-19:0', 'Wednesday': '10:0-19:0', 'Thursday': '10:0-19:0', 'Friday': '10:0-19:0', 'Saturday': '10:0-18:0', 'Sunday': '11:0-16:0'}",a36
+"{'Monday': '9:30-19:30', 'Tuesday': '9:30-19:30', 'Wednesday': '9:30-19:30', 'Thursday': '9:30-19:30', 'Friday': '9:30-19:30', 'Saturday': '9:30-19:30', 'Sunday': '10:0-16:0'}",a37
+"{'Monday': '9:30-19:0', 'Tuesday': '9:30-19:0', 'Wednesday': '9:30-19:0', 'Thursday': '9:30-19:0', 'Friday': '9:30-19:0', 'Saturday': '9:30-19:0', 'Sunday': '11:0-17:0'}",a38
+"{'Tuesday': '9:0-19:0', 'Wednesday': '9:0-19:0', 'Thursday': '9:0-19:0', 'Friday': '9:0-19:0', 'Saturday': '9:0-19:0', 'Sunday': '10:0-17:30'}",a39
+"{'Monday': '9:30-12:0', 'Tuesday': '10:0-19:0', 'Wednesday': '10:0-19:0', 'Thursday': '10:0-19:0', 'Friday': '10:0-19:0', 'Saturday': '10:0-19:0', 'Sunday': '11:0-16:0'}",a40
+"{'Monday': '9:30-19:0', 'Tuesday': '9:30-19:0', 'Wednesday': '9:30-19:0', 'Thursday': '9:30-19:0', 'Friday': '9:30-19:0', 'Saturday': '9:30-19:0', 'Sunday': '11:0-16:0'}",a41
+"{'Monday': '10:0-19:0', 'Tuesday': '10:0-19:0', 'Wednesday': '10:0-19:0', 'Thursday': '10:0-19:0', 'Friday': '10:0-20:0', 'Saturday': '10:0-19:0', 'Sunday': '11:0-18:0'}",a42
+"{'Monday': '9:30-19:30', 'Tuesday': '9:30-19:30', 'Wednesday': '9:30-19:30', 'Thursday': '9:30-19:30', 'Friday': '9:30-19:30', 'Saturday': '9:0-19:0'}",a43
+"{'Monday': '9:0-20:0', 'Tuesday': '9:0-20:0', 'Wednesday': '9:0-20:0', 'Thursday': '9:0-20:0', 'Friday': '9:0-20:0', 'Saturday': '9:0-20:0', 'Sunday': '11:0-18:0'}",a44
+"{'Monday': '10:30-19:30', 'Tuesday': '10:30-19:30', 'Wednesday': '10:30-19:30', 'Thursday': '10:30-19:30', 'Friday': '9:0-20:30', 'Saturday': '9:0-20:30'}",a45
+"{'Monday': '10:0-18:0', 'Tuesday': '10:0-18:0', 'Wednesday': '10:0-18:0', 'Thursday': '10:0-18:0', 'Friday': '10:0-18:0', 'Saturday': '10:30-17:0', 'Sunday': '10:30-17:0'}",a46
+"{'Monday': '0:0-0:0', 'Tuesday': '9:30-19:0', 'Wednesday': '9:30-19:0', 'Thursday': '9:30-19:0', 'Friday': '9:30-19:0', 'Saturday': '9:30-18:0'}",a47
+"{'Tuesday': '10:0-19:0', 'Wednesday': '10:0-17:0', 'Thursday': '10:0-19:0', 'Friday': '10:0-17:0', 'Saturday': '9:0-15:0'}",a48
+"{'Monday': '10:0-18:0', 'Tuesday': '10:0-18:0', 'Wednesday': '10:0-18:0', 'Thursday': '10:0-18:0', 'Friday': '10:0-18:0', 'Saturday': '10:0-17:0', 'Sunday': '10:0-16:0'}",a49
+"{'Monday': '0:0-0:0', 'Tuesday': '9:0-20:0', 'Wednesday': '9:0-19:0', 'Thursday': '9:0-20:0', 'Friday': '9:0-20:0', 'Saturday': '9:0-19:0'}",a50
+"{'Monday': '9:30-19:30', 'Tuesday': '9:30-19:30', 'Wednesday': '9:30-19:30', 'Thursday': '9:30-19:30', 'Friday': '9:30-19:30', 'Saturday': '9:30-19:30'}",a51
+"{'Monday': '10:0-19:30', 'Tuesday': '10:0-19:30', 'Wednesday': '10:0-19:30', 'Thursday': '10:0-19:30', 'Friday': '10:0-19:30', 'Saturday': '10:0-19:30'}",a52
+"{'Tuesday': '9:0-19:0', 'Wednesday': '9:0-19:0', 'Thursday': '9:0-19:0', 'Friday': '9:0-19:0', 'Saturday': '9:0-16:0'}",a53
+"{'Monday': '9:0-19:0', 'Tuesday': '9:0-19:0', 'Wednesday': '9:0-19:0', 'Thursday': '9:0-19:0', 'Friday': '9:0-19:0', 'Saturday': '9:0-19:0', 'Sunday': '10:0-17:0'}",a54
+"{'Monday': '9:30-19:0', 'Tuesday': '9:30-19:0', 'Wednesday': '9:30-19:0', 'Thursday': '9:30-19:0', 'Friday': '9:30-19:0', 'Saturday': '9:30-18:0', 'Sunday': '11:0-16:0'}",a55
+"{'Monday': '9:30-19:30', 'Tuesday': '9:30-19:30', 'Wednesday': '9:30-19:30', 'Thursday': '9:30-19:30', 'Friday': '9:30-19:30', 'Saturday': '9:30-19:30', 'Sunday': '12:0-17:0'}",a56
+"{'Monday': '0:0-0:0', 'Tuesday': '10:0-17:0', 'Wednesday': '10:0-17:0', 'Thursday': '10:0-17:0', 'Friday': '10:0-20:0', 'Saturday': '10:0-20:0', 'Sunday': '11:30-19:0'}",a57
+"{'Monday': '9:0-18:0', 'Tuesday': '9:0-18:0', 'Wednesday': '9:0-18:0', 'Thursday': '9:0-18:0', 'Friday': '9:0-18:0', 'Saturday': '9:0-18:0', 'Sunday': '9:0-18:0'}",a58
+"{'Monday': '0:0-0:0', 'Tuesday': '9:0-19:0', 'Wednesday': '9:0-19:0', 'Thursday': '9:0-19:0', 'Friday': '9:0-19:0', 'Saturday': '9:0-19:0', 'Sunday': '11:0-17:0'}",a59
+"{'Monday': '9:30-19:0', 'Tuesday': '9:30-19:0', 'Wednesday': '9:30-19:0', 'Thursday': '9:30-19:0', 'Friday': '9:30-19:0', 'Saturday': '9:30-19:0'}",a60
+"{'Monday': '0:0-0:0', 'Tuesday': '0:0-0:0', 'Wednesday': '0:0-0:0', 'Thursday': '0:0-0:0', 'Friday': '0:0-0:0', 'Saturday': '0:0-0:0', 'Sunday': '0:0-0:0'}",a61
+"{'Monday': '9:0-18:30', 'Tuesday': '9:0-18:30', 'Wednesday': '9:0-18:30', 'Thursday': '9:0-18:30', 'Friday': '9:0-18:30', 'Saturday': '9:0-18:30', 'Sunday': '9:0-17:0'}",a62
+"{'Monday': '0:0-0:0', 'Tuesday': '9:30-19:0', 'Wednesday': '9:30-19:0', 'Thursday': '9:30-19:0', 'Friday': '9:30-19:0', 'Saturday': '9:30-19:0', 'Sunday': '9:30-19:0'}",a63
+"{'Monday': '0:0-0:0', 'Wednesday': '9:30-19:30', 'Thursday': '9:30-19:30', 'Friday': '9:30-19:30', 'Saturday': '9:30-19:30', 'Sunday': '11:0-17:0'}",a64
+"{'Monday': '9:30-19:30', 'Tuesday': '9:30-19:30', 'Wednesday': '9:30-19:30', 'Thursday': '9:30-19:30', 'Friday': '9:30-19:30', 'Saturday': '9:30-19:30', 'Sunday': '10:30-17:0'}",a65
+"{'Tuesday': '9:0-19:0', 'Wednesday': '9:0-19:0', 'Thursday': '9:0-16:0', 'Friday': '9:0-19:0', 'Saturday': '9:0-17:0', 'Sunday': '11:0-17:0'}",a66
+"{'Monday': '0:0-0:0', 'Tuesday': '9:0-19:0', 'Wednesday': '9:0-19:0', 'Thursday': '9:0-19:0', 'Friday': '9:0-19:0', 'Saturday': '9:0-19:0'}",a67
+"{'Monday': '0:0-0:0', 'Tuesday': '10:0-15:0', 'Wednesday': '10:0-19:0', 'Thursday': '10:0-19:0', 'Friday': '10:0-19:0', 'Saturday': '9:0-17:0', 'Sunday': '9:0-17:0'}",a68
+"{'Monday': '0:0-0:0', 'Tuesday': '9:30-17:0', 'Wednesday': '9:30-17:0', 'Thursday': '9:30-17:0', 'Friday': '9:30-17:0', 'Saturday': '9:30-17:0'}",a69
+"{'Monday': '10:0-21:0', 'Tuesday': '10:0-21:0', 'Wednesday': '10:0-21:0', 'Thursday': '10:0-21:0', 'Friday': '10:0-21:0', 'Saturday': '10:0-18:0', 'Sunday': '10:0-18:0'}",a70
+"{'Monday': '0:0-0:0', 'Tuesday': '10:0-19:0', 'Wednesday': '10:0-19:0', 'Thursday': '10:0-19:0', 'Friday': '10:0-19:0', 'Saturday': '10:0-18:0'}",a71
+"{'Monday': '9:30-19:30', 'Tuesday': '9:30-19:30', 'Wednesday': '9:30-19:30', 'Thursday': '9:30-19:30', 'Friday': '9:30-19:30', 'Saturday': '9:30-19:30', 'Sunday': '10:0-17:0'}",a72
+"{'Tuesday': '7:0-19:0', 'Wednesday': '7:0-19:0', 'Thursday': '7:0-19:0', 'Friday': '7:0-19:0', 'Saturday': '7:0-15:0'}",a73
+"{'Monday': '9:0-18:0', 'Tuesday': '9:0-18:0', 'Wednesday': '9:0-18:0', 'Thursday': '9:0-18:0', 'Friday': '9:0-18:0', 'Saturday': '9:0-18:0'}",a74
+"{'Monday': '8:0-20:0', 'Tuesday': '8:0-20:0', 'Wednesday': '8:0-20:0', 'Thursday': '8:0-20:0', 'Friday': '8:0-20:0', 'Saturday': '8:0-20:0', 'Sunday': '12:0-17:0'}",a75
+"{'Monday': '0:0-0:0', 'Tuesday': '9:30-19:30', 'Wednesday': '9:30-19:30', 'Thursday': '9:30-19:30', 'Friday': '9:30-19:30', 'Saturday': '9:30-19:0', 'Sunday': '11:0-17:0'}",a76
+"{'Monday': '0:0-0:0', 'Wednesday': '9:0-19:0', 'Thursday': '9:0-19:0', 'Friday': '9:0-17:0', 'Saturday': '9:0-19:0', 'Sunday': '11:0-17:0'}",a77
+"{'Monday': '0:0-0:0', 'Tuesday': '9:0-21:0', 'Wednesday': '9:0-21:0', 'Thursday': '9:0-21:0', 'Friday': '9:0-21:0', 'Saturday': '9:0-17:0'}",a78
+"{'Monday': '9:30-19:30', 'Tuesday': '9:30-19:30', 'Wednesday': '9:30-19:30', 'Thursday': '9:30-19:30', 'Friday': '9:30-19:30', 'Saturday': '9:30-19:0', 'Sunday': '11:0-17:0'}",a79
+"{'Monday': '9:30-19:0', 'Tuesday': '9:30-19:0', 'Wednesday': '9:30-19:0', 'Thursday': '9:30-19:0', 'Friday': '9:30-19:0', 'Saturday': '9:0-18:0', 'Sunday': '11:0-17:0'}",a80
+"{'Monday': '9:30-19:0', 'Wednesday': '9:30-19:0', 'Thursday': '9:30-19:0', 'Friday': '9:30-19:0', 'Saturday': '9:30-18:0', 'Sunday': '11:0-17:0'}",a81
+"{'Tuesday': '9:0-21:0', 'Wednesday': '9:0-21:0', 'Thursday': '9:0-21:0', 'Friday': '9:0-20:0', 'Saturday': '9:0-20:0', 'Sunday': '10:0-18:0'}",a82
+"{'Monday': '0:0-0:0', 'Tuesday': '10:0-19:0', 'Wednesday': '10:0-19:0', 'Thursday': '10:0-19:0', 'Friday': '10:0-19:0', 'Saturday': '10:0-16:0'}",a83
+"{'Monday': '10:0-19:30', 'Tuesday': '10:0-19:30', 'Wednesday': '10:0-19:30', 'Thursday': '10:0-19:30', 'Friday': '10:0-19:30', 'Saturday': '9:0-18:0'}",a84
+"{'Monday': '10:0-19:0', 'Tuesday': '10:0-19:0', 'Wednesday': '10:0-19:0', 'Thursday': '10:0-19:0', 'Friday': '10:0-19:0', 'Saturday': '10:0-19:0', 'Sunday': '12:0-17:0'}",a85
+"{'Monday': '0:0-0:0', 'Tuesday': '10:0-19:30', 'Wednesday': '10:0-19:30', 'Thursday': '10:0-19:30', 'Friday': '9:0-19:30', 'Saturday': '9:0-19:30', 'Sunday': '11:0-17:0'}",a86
+"{'Tuesday': '9:0-21:0', 'Wednesday': '9:0-21:0', 'Thursday': '9:0-21:0', 'Friday': '9:0-17:0', 'Saturday': '9:0-17:0'}",a87
+"{'Tuesday': '9:0-19:0', 'Wednesday': '9:0-19:0', 'Thursday': '9:0-19:0', 'Friday': '9:0-19:0', 'Saturday': '9:0-19:0'}",a88
+"{'Monday': '9:30-19:30', 'Tuesday': '9:30-19:30', 'Wednesday': '9:30-19:30', 'Thursday': '9:30-19:30', 'Friday': '9:30-19:30', 'Saturday': '9:30-18:0', 'Sunday': '11:0-16:30'}",a89
+"{'Monday': '9:0-19:0', 'Tuesday': '9:0-19:0', 'Wednesday': '9:0-19:0', 'Thursday': '9:0-19:0', 'Friday': '9:0-19:0', 'Saturday': '9:0-7:0', 'Sunday': '11:0-17:0'}",a90
+"{'Tuesday': '10:0-19:0', 'Wednesday': '10:0-19:0', 'Thursday': '10:0-19:0', 'Friday': '10:0-19:0', 'Saturday': '9:0-18:0'}",a91
+"{'Monday': '9:30-19:30', 'Tuesday': '7:0-21:0', 'Wednesday': '9:30-19:30', 'Thursday': '9:30-19:30', 'Friday': '9:30-19:30', 'Saturday': '9:0-19:0', 'Sunday': '11:0-17:0'}",a92
+"{'Monday': '0:0-0:0', 'Tuesday': '9:30-19:0', 'Wednesday': '9:30-19:0', 'Thursday': '9:30-19:0', 'Friday': '9:30-19:0', 'Saturday': '9:30-19:0', 'Sunday': '11:0-17:0'}",a93
+"{'Tuesday': '9:0-19:0', 'Wednesday': '10:0-19:0', 'Thursday': '9:0-19:0', 'Friday': '8:0-20:0', 'Saturday': '7:0-18:0'}",a94
+"{'Monday': '0:0-0:0', 'Tuesday': '9:30-19:30', 'Wednesday': '9:30-18:0', 'Thursday': '9:30-19:30', 'Friday': '11:0-17:0', 'Saturday': '9:30-19:30', 'Sunday': '11:0-17:0'}",a95
+"{'Monday': '9:30-19:30', 'Tuesday': '9:30-19:30', 'Wednesday': '9:30-19:30', 'Thursday': '9:30-19:30', 'Friday': '9:0-19:30', 'Saturday': '9:0-19:30', 'Sunday': '11:0-17:0'}",a96
+"{'Monday': '9:0-17:0', 'Tuesday': '9:0-17:0', 'Wednesday': '9:0-17:0', 'Thursday': '9:0-17:0', 'Friday': '9:0-17:0', 'Saturday': '9:0-17:0'}",a97
+"{'Monday': '9:0-16:0', 'Tuesday': '9:0-20:0', 'Wednesday': '9:0-20:0', 'Thursday': '9:0-20:0', 'Friday': '9:0-20:0', 'Saturday': '9:0-18:0', 'Sunday': '10:0-15:0'}",a98
+"{'Monday': '0:0-0:0', 'Tuesday': '9:30-18:30', 'Wednesday': '9:30-18:30', 'Thursday': '9:30-18:30', 'Friday': '9:30-18:30', 'Saturday': '9:30-18:30', 'Sunday': '11:0-16:0'}",a99
+"{'Monday': '9:30-18:30', 'Tuesday': '9:30-18:30', 'Wednesday': '9:30-18:30', 'Thursday': '9:30-18:30', 'Friday': '9:30-18:30', 'Saturday': '9:30-18:30'}",a100
+"{'Tuesday': '10:0-19:0', 'Wednesday': '10:0-19:0', 'Thursday': '10:0-19:0', 'Friday': '10:0-19:0', 'Saturday': '10:0-19:0'}",a101
+"{'Monday': '9:45-19:0', 'Tuesday': '9:45-19:0', 'Wednesday': '9:45-19:0', 'Thursday': '9:45-19:0', 'Friday': '9:45-19:0', 'Saturday': '9:45-19:0', 'Sunday': '10:0-17:0'}",a102
+"{'Tuesday': '9:0-18:0', 'Wednesday': '9:0-18:0', 'Thursday': '9:0-18:0', 'Friday': '9:0-21:0', 'Saturday': '9:0-16:0'}",a103
+"{'Monday': '0:0-0:0', 'Tuesday': '8:0-18:0', 'Wednesday': '8:0-18:0', 'Thursday': '8:0-18:0', 'Friday': '7:0-20:0', 'Saturday': '8:0-15:0'}",a104
+"{'Monday': '0:0-0:0', 'Tuesday': '9:0-17:0', 'Wednesday': '9:0-17:0', 'Thursday': '9:0-19:0', 'Friday': '9:0-15:0', 'Saturday': '9:0-17:0'}",a105
+"{'Tuesday': '9:0-16:0', 'Wednesday': '9:0-16:0', 'Thursday': '14:0-20:0', 'Friday': '9:0-16:0', 'Sunday': '10:0-15:0'}",a106
+"{'Monday': '0:0-0:0', 'Tuesday': '9:0-17:0', 'Wednesday': '9:0-17:0', 'Thursday': '9:0-17:0', 'Friday': '9:0-17:0', 'Saturday': '9:0-17:0'}",a107
+"{'Monday': '0:0-0:0', 'Tuesday': '13:0-20:0', 'Wednesday': '10:0-19:0', 'Thursday': '10:0-15:0', 'Friday': '11:0-16:0'}",a108
+"{'Monday': '0:0-0:0', 'Tuesday': '10:0-19:0', 'Wednesday': '10:0-17:0', 'Thursday': '10:0-20:0', 'Friday': '10:0-18:0', 'Saturday': '9:0-17:0'}",a109
+"{'Monday': '9:30-18:30', 'Tuesday': '9:30-18:30', 'Wednesday': '9:30-18:30', 'Thursday': '9:30-18:30', 'Friday': '9:30-18:30', 'Saturday': '9:0-18:0', 'Sunday': '10:30-16:30'}",a110
+"{'Monday': '0:0-0:0', 'Wednesday': '9:0-19:0', 'Thursday': '9:0-19:0', 'Friday': '9:0-19:0', 'Saturday': '9:0-19:0', 'Sunday': '11:0-17:0'}",a111
+"{'Monday': '9:30-19:30', 'Tuesday': '9:30-19:30', 'Wednesday': '9:30-19:30', 'Thursday': '9:30-19:30', 'Friday': '9:30-19:30', 'Saturday': '9:0-18:30', 'Sunday': '11:0-16:30'}",a112
+"{'Monday': '12:0-20:0', 'Tuesday': '10:0-20:30', 'Wednesday': '10:0-20:30', 'Thursday': '11:0-19:0', 'Friday': '10:0-20:0', 'Saturday': '9:0-17:0'}",a113
+"{'Monday': '0:0-0:0', 'Tuesday': '10:0-18:0', 'Wednesday': '10:0-18:0', 'Thursday': '10:0-18:0', 'Friday': '10:0-18:0', 'Saturday': '10:0-18:0'}",a114
+"{'Tuesday': '10:0-20:0', 'Wednesday': '9:0-17:0', 'Thursday': '10:0-20:0', 'Friday': '9:0-17:0', 'Saturday': '9:0-16:0'}",a115
+"{'Monday': '10:0-20:0', 'Tuesday': '10:0-20:0', 'Wednesday': '10:0-20:0', 'Thursday': '10:0-20:0', 'Friday': '10:0-20:30', 'Saturday': '9:0-20:30', 'Sunday': '12:0-17:30'}",a116
+"{'Monday': '0:0-0:0', 'Tuesday': '10:0-19:0', 'Wednesday': '10:0-20:0', 'Thursday': '10:0-20:0', 'Friday': '9:0-20:0', 'Sunday': '7:0-20:0'}",a117
+"{'Monday': '0:0-0:0', 'Tuesday': '9:30-19:0', 'Wednesday': '9:30-19:0', 'Thursday': '9:30-19:0', 'Friday': '9:30-19:0', 'Saturday': '9:30-18:0', 'Sunday': '12:0-17:0'}",a118
+"{'Wednesday': '11:0-18:0', 'Thursday': '11:0-18:0', 'Friday': '11:0-18:0', 'Saturday': '10:0-17:0', 'Sunday': '10:0-17:0'}",a119
+"{'Monday': '9:0-19:30', 'Tuesday': '9:0-19:30', 'Wednesday': '9:0-19:30', 'Thursday': '9:0-19:30', 'Friday': '9:0-19:30', 'Saturday': '9:0-19:30', 'Sunday': '10:0-17:0'}",a120
+"{'Monday': '10:0-20:30', 'Tuesday': '10:0-20:30', 'Wednesday': '10:0-20:30', 'Thursday': '10:0-20:30', 'Friday': '10:0-20:30', 'Saturday': '10:0-21:0', 'Sunday': '10:0-18:0'}",a121
+"{'Monday': '9:0-20:0', 'Tuesday': '9:0-20:0', 'Wednesday': '9:0-20:0', 'Thursday': '9:0-20:0', 'Friday': '9:0-17:0', 'Saturday': '9:0-16:0'}",a122
+"{'Monday': '9:30-19:30', 'Tuesday': '9:30-19:30', 'Wednesday': '9:30-19:30', 'Thursday': '9:30-19:30', 'Friday': '9:30-19:30', 'Saturday': '9:30-19:30', 'Sunday': '10:0-17:30'}",a123
+"{'Monday': '9:0-19:0', 'Tuesday': '9:0-19:0', 'Wednesday': '9:0-19:0', 'Thursday': '9:0-19:0', 'Friday': '9:0-19:0', 'Saturday': '9:0-19:0', 'Sunday': '9:0-19:0'}",a124
+"{'Monday': '0:0-0:0', 'Wednesday': '9:30-19:30', 'Thursday': '9:30-19:30', 'Friday': '9:30-19:30', 'Saturday': '9:30-19:0', 'Sunday': '12:0-17:0'}",a125
+"{'Monday': '9:0-17:0', 'Tuesday': '9:0-20:0', 'Wednesday': '9:0-20:0', 'Thursday': '9:0-20:0', 'Friday': '9:0-19:0', 'Saturday': '9:0-16:0'}",a126
+"{'Monday': '9:30-20:0', 'Tuesday': '9:30-20:0', 'Wednesday': '9:30-20:0', 'Thursday': '9:30-20:0', 'Friday': '9:30-20:0', 'Saturday': '9:30-20:0', 'Sunday': '11:0-16:0'}",a127
+"{'Monday': '10:0-19:0', 'Tuesday': '10:0-19:0', 'Wednesday': '10:0-19:0', 'Thursday': '10:0-19:0', 'Friday': '10:0-19:0', 'Saturday': '10:0-19:0', 'Sunday': '11:0-18:0'}",a128
+"{'Monday': '9:0-19:0', 'Tuesday': '10:0-19:0', 'Wednesday': '10:0-19:0', 'Thursday': '10:0-19:0', 'Friday': '10:0-19:0', 'Saturday': '9:0-17:0'}",a129
+"{'Monday': '10:0-20:0', 'Tuesday': '10:0-20:0', 'Wednesday': '10:0-20:0', 'Thursday': '10:0-20:0', 'Friday': '9:0-20:0', 'Saturday': '9:0-20:0', 'Sunday': '11:30-17:0'}",a130
+"{'Monday': '9:0-21:0', 'Tuesday': '9:0-21:0', 'Wednesday': '9:0-21:0', 'Thursday': '9:0-21:0', 'Friday': '9:0-21:0'}",a131
+"{'Monday': '9:30-16:0', 'Tuesday': '9:30-19:30', 'Wednesday': '9:30-19:30', 'Thursday': '9:30-19:30', 'Friday': '9:30-19:30', 'Saturday': '9:30-18:0', 'Sunday': '10:0-17:0'}",a132
+"{'Monday': '0:0-0:0', 'Tuesday': '9:30-19:0', 'Wednesday': '9:30-19:0', 'Thursday': '9:30-19:0', 'Friday': '9:30-19:0', 'Saturday': '9:0-18:0'}",a133
+"{'Monday': '8:0-20:0', 'Tuesday': '8:0-20:0', 'Wednesday': '8:0-20:0', 'Thursday': '8:0-21:0', 'Friday': '8:0-20:0', 'Saturday': '8:0-20:0'}",a134
+"{'Monday': '0:0-0:0', 'Tuesday': '9:30-19:0', 'Wednesday': '9:30-19:0', 'Thursday': '9:30-19:0', 'Friday': '9:0-19:0', 'Saturday': '9:0-19:0'}",a135
+"{'Monday': '9:30-19:30', 'Tuesday': '9:30-19:30', 'Wednesday': '9:30-19:30', 'Thursday': '9:30-19:30', 'Friday': '9:30-19:30', 'Saturday': '9:30-18:0', 'Sunday': '11:0-17:0'}",a136
+"{'Monday': '9:30-19:0', 'Tuesday': '9:30-19:0', 'Wednesday': '9:30-19:0', 'Thursday': '9:30-19:0', 'Friday': '9:30-19:0', 'Saturday': '9:0-18:0'}",a137
+"{'Monday': '9:0-18:0', 'Tuesday': '10:0-18:0', 'Wednesday': '10:0-18:0', 'Thursday': '10:0-18:0', 'Friday': '10:0-18:0', 'Saturday': '10:0-18:0', 'Sunday': '10:0-18:0'}",a138
+"{'Monday': '12:0-18:0', 'Tuesday': '10:0-20:0', 'Wednesday': '10:0-20:0', 'Thursday': '10:0-20:0', 'Friday': '10:0-19:0', 'Saturday': '9:0-17:0'}",a139
+"{'Monday': '9:0-17:0', 'Tuesday': '10:0-20:0', 'Wednesday': '9:0-20:0', 'Thursday': '9:0-20:0', 'Friday': '9:0-20:0', 'Saturday': '9:0-18:0', 'Sunday': '9:0-18:0'}",a140
+"{'Monday': '0:0-0:0', 'Tuesday': '9:30-19:30', 'Wednesday': '9:30-19:30', 'Thursday': '9:30-19:30', 'Friday': '9:30-19:30', 'Saturday': '9:30-19:30', 'Sunday': '10:0-17:0'}",a141
+"{'Monday': '10:0-15:0', 'Tuesday': '9:0-20:0', 'Wednesday': '9:0-20:0', 'Thursday': '9:0-20:0', 'Friday': '9:0-20:0', 'Saturday': '9:0-18:0'}",a142
+"{'Monday': '0:0-0:0', 'Tuesday': '10:0-20:0', 'Wednesday': '10:0-20:0', 'Thursday': '10:0-20:0', 'Friday': '10:0-18:0', 'Saturday': '9:0-17:0'}",a143
+"{'Monday': '9:30-19:0', 'Tuesday': '9:30-19:0', 'Wednesday': '9:30-19:0', 'Thursday': '9:30-19:0', 'Friday': '9:0-19:0', 'Saturday': '9:0-19:0'}",a144
+"{'Monday': '0:0-0:0', 'Tuesday': '10:0-20:0', 'Wednesday': '10:0-20:0', 'Thursday': '10:0-20:0', 'Friday': '10:0-20:0', 'Saturday': '10:0-18:0', 'Sunday': '10:0-17:0'}",a145
+"{'Monday': '9:30-19:0', 'Tuesday': '9:30-19:0', 'Wednesday': '9:30-19:0', 'Thursday': '9:30-19:0', 'Friday': '9:30-19:0', 'Saturday': '9:0-18:30'}",a146
+"{'Monday': '9:0-21:0', 'Tuesday': '9:0-21:0', 'Wednesday': '9:0-21:0', 'Thursday': '9:0-21:0', 'Friday': '9:0-21:0', 'Saturday': '9:0-20:0'}",a147
+"{'Monday': '10:0-19:0', 'Tuesday': '10:0-19:0', 'Wednesday': '10:0-19:0', 'Thursday': '10:0-19:0', 'Friday': '10:0-19:0', 'Saturday': '9:0-19:0'}",a148
+"{'Monday': '10:0-19:30', 'Tuesday': '10:0-19:30', 'Wednesday': '10:0-19:30', 'Thursday': '10:0-19:30', 'Friday': '10:0-19:30', 'Saturday': '10:0-19:0', 'Sunday': '10:0-17:0'}",a149
+"{'Monday': '9:0-19:30', 'Tuesday': '9:0-19:30', 'Wednesday': '9:0-19:30', 'Thursday': '9:0-19:30', 'Friday': '9:0-19:30', 'Saturday': '9:0-19:30', 'Sunday': '11:0-16:0'}",a150
+"{'Tuesday': '10:0-18:0', 'Wednesday': '10:0-18:0', 'Thursday': '10:0-18:0', 'Friday': '10:0-18:0', 'Saturday': '9:0-15:0'}",a151
+"{'Monday': '0:0-0:0', 'Tuesday': '9:30-18:30', 'Wednesday': '9:30-18:30', 'Thursday': '9:30-18:30', 'Friday': '9:30-18:30', 'Saturday': '9:30-18:30', 'Sunday': '11:0-17:0'}",a152
+"{'Monday': '9:0-17:0', 'Tuesday': '11:0-20:30', 'Wednesday': '11:0-20:30', 'Thursday': '11:0-20:30', 'Friday': '11:0-20:30', 'Saturday': '11:0-20:30', 'Sunday': '11:0-19:0'}",a153
+"{'Monday': '10:0-19:0', 'Tuesday': '10:0-19:0', 'Wednesday': '10:0-19:0', 'Thursday': '10:0-19:0', 'Friday': '10:0-19:0', 'Saturday': '10:0-19:0', 'Sunday': '11:0-17:0'}",a154
+"{'Monday': '10:0-19:0', 'Wednesday': '10:0-19:0', 'Thursday': '10:0-19:0', 'Friday': '10:0-19:0', 'Saturday': '10:0-19:0', 'Sunday': '11:0-19:0'}",a155
+"{'Tuesday': '10:0-18:0', 'Wednesday': '10:0-18:0', 'Thursday': '10:0-18:0', 'Friday': '10:0-18:0', 'Saturday': '9:0-18:0'}",a156
+"{'Tuesday': '10:0-15:0', 'Wednesday': '10:0-19:0', 'Thursday': '10:0-19:0', 'Friday': '10:0-15:0', 'Saturday': '9:0-15:0'}",a157
+"{'Monday': '7:0-18:0', 'Tuesday': '7:0-18:0', 'Wednesday': '7:0-18:0', 'Thursday': '7:0-18:0', 'Friday': '7:0-18:0', 'Saturday': '7:0-18:0'}",a158
+"{'Tuesday': '9:0-19:0', 'Wednesday': '10:0-18:0', 'Thursday': '9:0-19:0', 'Friday': '10:0-16:0', 'Saturday': '9:0-16:0'}",a159
+"{'Tuesday': '10:0-19:30', 'Wednesday': '10:0-19:30', 'Thursday': '10:0-19:30', 'Friday': '10:0-19:30', 'Saturday': '9:0-18:0', 'Sunday': '11:0-16:0'}",a160
+"{'Monday': '8:30-21:0', 'Tuesday': '8:30-21:0', 'Wednesday': '8:30-21:0', 'Thursday': '8:30-21:0', 'Friday': '8:30-20:0', 'Saturday': '8:30-20:0', 'Sunday': '9:0-20:0'}",a161
+"{'Monday': '10:0-19:0', 'Wednesday': '10:0-19:0', 'Thursday': '10:0-19:0', 'Friday': '10:0-19:0', 'Saturday': '10:0-19:0', 'Sunday': '10:0-19:0'}",a162
+"{'Monday': '9:0-19:30', 'Tuesday': '9:0-19:30', 'Wednesday': '9:0-19:30', 'Thursday': '9:0-19:30', 'Friday': '9:0-19:30', 'Saturday': '9:0-19:0', 'Sunday': '10:0-17:0'}",a163
+"{'Monday': '9:30-19:30', 'Tuesday': '9:30-19:30', 'Wednesday': '9:30-19:30', 'Thursday': '9:30-19:30', 'Friday': '9:30-19:30', 'Saturday': '9:30-19:30', 'Sunday': '11:0-16:0'}",a164
+"{'Tuesday': '11:0-20:0', 'Thursday': '11:0-21:0', 'Friday': '8:0-22:0', 'Saturday': '9:0-15:0'}",a165
+"{'Monday': '10:0-19:0', 'Tuesday': '10:0-19:0', 'Wednesday': '10:0-19:0', 'Thursday': '10:0-19:0', 'Friday': '10:0-19:0', 'Saturday': '10:0-18:0'}",a166
+"{'Monday': '9:30-19:0', 'Wednesday': '9:30-19:0', 'Thursday': '9:30-19:0', 'Friday': '9:30-19:0', 'Saturday': '9:30-19:0', 'Sunday': '11:0-18:0'}",a167
+"{'Monday': '9:0-19:0', 'Wednesday': '9:0-19:0', 'Thursday': '9:0-19:0', 'Friday': '9:0-19:0', 'Saturday': '9:0-19:0', 'Sunday': '11:0-17:0'}",a168
+"{'Tuesday': '9:0-17:0', 'Wednesday': '9:0-18:0', 'Thursday': '9:0-17:0', 'Friday': '9:0-17:0', 'Saturday': '9:0-16:0'}",a169
+"{'Tuesday': '9:30-19:30', 'Wednesday': '9:30-19:30', 'Thursday': '9:30-19:30', 'Friday': '9:0-19:30', 'Saturday': '9:0-19:0', 'Sunday': '11:0-17:0'}",a170
+"{'Monday': '10:0-19:30', 'Tuesday': '10:0-19:30', 'Wednesday': '10:0-19:30', 'Thursday': '10:0-19:30', 'Friday': '10:0-19:30', 'Saturday': '10:0-19:30', 'Sunday': '11:0-18:0'}",a171
+"{'Monday': '0:0-0:0', 'Tuesday': '10:0-19:0', 'Wednesday': '10:0-19:0', 'Thursday': '10:0-19:0', 'Friday': '10:0-19:0', 'Saturday': '9:0-18:0'}",a172
+"{'Monday': '9:30-19:0', 'Tuesday': '9:30-19:0', 'Wednesday': '9:30-19:0', 'Thursday': '9:30-19:0', 'Friday': '9:30-19:0', 'Saturday': '9:0-19:0', 'Sunday': '11:0-17:30'}",a173
+"{'Monday': '9:30-19:30', 'Tuesday': '9:30-19:30', 'Wednesday': '9:30-19:30', 'Thursday': '9:30-19:30', 'Friday': '9:30-19:30', 'Saturday': '9:30-19:0', 'Sunday': '10:30-17:30'}",a174
+"{'Monday': '0:0-0:0', 'Tuesday': '9:0-18:0', 'Wednesday': '9:0-18:0', 'Thursday': '9:0-18:0', 'Friday': '9:0-18:0', 'Saturday': '9:0-18:0'}",a175
+"{'Monday': '9:30-19:30', 'Tuesday': '9:30-19:30', 'Wednesday': '9:30-19:30', 'Thursday': '9:30-19:30', 'Friday': '9:30-19:30', 'Saturday': '9:0-18:0'}",a176
+"{'Monday': '10:0-19:0', 'Tuesday': '10:0-19:0', 'Wednesday': '10:0-19:0', 'Thursday': '10:0-19:0', 'Friday': '10:0-19:0', 'Saturday': '10:0-19:0', 'Sunday': '10:0-19:0'}",a177
+"{'Tuesday': '10:0-20:0', 'Wednesday': '12:0-20:0', 'Thursday': '12:0-20:0', 'Friday': '10:0-22:0', 'Saturday': '10:0-22:0'}",a178
+"{'Monday': '8:30-19:0', 'Tuesday': '8:30-19:0', 'Wednesday': '8:30-19:0', 'Thursday': '8:30-19:0', 'Friday': '8:30-17:0', 'Saturday': '7:30-17:0'}",a179
+"{'Monday': '0:0-0:0', 'Tuesday': '9:30-18:0', 'Wednesday': '9:30-18:0', 'Thursday': '9:30-18:0', 'Friday': '9:30-18:0', 'Saturday': '9:30-17:0', 'Sunday': '11:30-17:15'}",a180
+"{'Monday': '0:0-0:0', 'Tuesday': '9:0-19:0', 'Wednesday': '9:0-19:0', 'Thursday': '9:0-17:0', 'Friday': '9:0-19:0', 'Saturday': '9:0-18:30', 'Sunday': '10:30-17:0'}",a181
+"{'Monday': '0:0-0:0', 'Tuesday': '9:30-19:30', 'Wednesday': '9:30-19:30', 'Thursday': '9:30-19:30', 'Friday': '9:30-19:30', 'Saturday': '9:30-19:30'}",a182
+"{'Monday': '9:30-19:0', 'Tuesday': '9:30-19:0', 'Wednesday': '9:30-19:30', 'Thursday': '9:30-19:0', 'Friday': '9:30-19:0', 'Saturday': '9:30-19:0', 'Sunday': '11:0-17:0'}",a183
+"{'Monday': '9:30-18:0', 'Wednesday': '9:30-18:0', 'Thursday': '9:30-18:0', 'Friday': '9:30-18:0', 'Saturday': '9:30-17:30', 'Sunday': '11:0-16:0'}",a184
+"{'Monday': '11:0-20:0', 'Tuesday': '11:0-20:0', 'Wednesday': '10:0-20:0', 'Thursday': '10:0-20:0', 'Friday': '10:0-18:0', 'Saturday': '9:0-16:0'}",a185
+"{'Monday': '9:0-21:0', 'Tuesday': '9:0-21:0', 'Wednesday': '9:0-21:0', 'Thursday': '9:0-21:0', 'Friday': '9:0-21:0', 'Saturday': '9:0-21:0', 'Sunday': '9:0-18:0'}",a186
+"{'Monday': '0:0-0:0', 'Tuesday': '9:30-19:30', 'Wednesday': '9:30-19:30', 'Thursday': '9:30-19:30', 'Friday': '9:30-17:30', 'Saturday': '9:30-18:30', 'Sunday': '11:0-17:0'}",a187
+"{'Monday': '9:0-20:0', 'Tuesday': '9:0-20:0', 'Wednesday': '9:0-20:0', 'Thursday': '9:0-20:0', 'Friday': '9:0-20:0', 'Saturday': '9:0-20:0'}",a188
+"{'Monday': '9:30-19:0', 'Tuesday': '9:30-19:0', 'Wednesday': '9:30-19:0', 'Thursday': '9:30-19:0', 'Friday': '9:30-19:0', 'Saturday': '9:0-18:0', 'Sunday': '11:0-16:0'}",a189
+"{'Monday': '9:0-19:0', 'Tuesday': '9:0-19:0', 'Wednesday': '9:0-19:0', 'Thursday': '9:0-19:0', 'Friday': '9:0-19:0', 'Saturday': '9:0-19:0', 'Sunday': '11:0-16:0'}",a190
+"{'Monday': '0:0-0:0', 'Tuesday': '10:0-19:0', 'Wednesday': '10:0-19:0', 'Thursday': '10:0-19:0', 'Friday': '9:0-19:0', 'Saturday': '9:0-19:0'}",a191
+"{'Tuesday': '9:30-19:30', 'Wednesday': '9:30-19:30', 'Thursday': '9:30-19:30', 'Friday': '9:30-19:30', 'Saturday': '9:30-19:30', 'Sunday': '11:0-17:0'}",a192
+"{'Monday': '0:0-0:0', 'Tuesday': '9:30-19:0', 'Wednesday': '9:30-19:0', 'Thursday': '9:30-19:0', 'Friday': '12:0-19:0', 'Saturday': '9:30-19:0', 'Sunday': '11:0-17:0'}",a193
+"{'Monday': '10:0-19:0', 'Tuesday': '10:0-19:0', 'Wednesday': '10:0-19:0', 'Thursday': '10:0-19:0', 'Friday': '10:0-19:0', 'Saturday': '9:30-18:30', 'Sunday': '11:0-17:0'}",a194
+"{'Monday': '0:0-0:0', 'Tuesday': '9:0-19:0', 'Wednesday': '9:0-19:0', 'Thursday': '9:0-19:0', 'Friday': '9:0-18:45', 'Saturday': '9:0-18:45'}",a195
+"{'Monday': '9:30-19:30', 'Tuesday': '9:30-19:30', 'Wednesday': '9:30-19:30', 'Thursday': '9:30-19:30', 'Friday': '9:30-19:30', 'Saturday': '9:30-18:0', 'Sunday': '10:0-16:0'}",a196
+"{'Monday': '10:0-19:30', 'Wednesday': '10:0-19:30', 'Thursday': '10:0-19:30', 'Friday': '10:0-19:30', 'Saturday': '9:0-18:0', 'Sunday': '11:0-17:0'}",a197
+"{'Tuesday': '9:0-19:0', 'Wednesday': '9:0-19:0', 'Thursday': '9:0-19:0', 'Friday': '9:0-19:0', 'Saturday': '9:0-19:0', 'Sunday': '11:0-17:0'}",a198
+"{'Monday': '9:0-19:0', 'Tuesday': '9:0-19:0', 'Wednesday': '9:0-19:0', 'Thursday': '9:0-19:0', 'Friday': '9:0-19:0', 'Saturday': '9:0-18:0', 'Sunday': '11:0-17:0'}",a199
+"{'Monday': '9:0-15:0', 'Tuesday': '8:30-19:0', 'Wednesday': '8:30-19:0', 'Thursday': '8:30-19:0', 'Friday': '8:30-17:0', 'Saturday': '8:30-16:0'}",a200
+"{'Monday': '0:0-0:0', 'Tuesday': '9:30-19:0', 'Wednesday': '9:30-19:0', 'Thursday': '9:30-19:0', 'Friday': '9:30-19:0', 'Saturday': '9:30-18:0', 'Sunday': '11:0-16:0'}",a201
+"{'Monday': '10:0-19:30', 'Tuesday': '10:0-19:30', 'Wednesday': '10:0-19:30', 'Thursday': '10:0-19:30', 'Friday': '10:0-19:30', 'Saturday': '10:0-17:0', 'Sunday': '10:0-17:0'}",a202
+"{'Monday': '8:30-16:0', 'Tuesday': '9:0-18:0', 'Wednesday': '9:0-20:0', 'Thursday': '9:0-20:0', 'Friday': '9:0-20:0', 'Saturday': '9:0-17:0'}",a203
+"{'Monday': '9:0-18:0', 'Wednesday': '9:0-18:0', 'Thursday': '9:0-18:0', 'Friday': '9:0-18:0', 'Saturday': '9:0-18:0', 'Sunday': '10:0-17:0'}",a204
+"{'Tuesday': '10:0-20:0', 'Wednesday': '10:0-16:0', 'Thursday': '10:0-20:0', 'Friday': '10:0-18:0', 'Saturday': '10:0-16:0'}",a205
+"{'Monday': '10:0-18:0', 'Wednesday': '10:0-18:0', 'Thursday': '10:0-19:0', 'Friday': '10:0-19:0', 'Saturday': '10:0-18:0'}",a206
+"{'Monday': '9:0-19:0', 'Tuesday': '9:0-19:0', 'Wednesday': '9:0-19:0', 'Thursday': '9:0-19:0', 'Friday': '9:0-19:0', 'Saturday': '9:0-18:0', 'Sunday': '11:0-16:0'}",a207
+"{'Tuesday': '9:0-18:0', 'Wednesday': '9:0-18:0', 'Thursday': '9:0-18:0', 'Friday': '9:0-18:0', 'Saturday': '9:0-15:0'}",a208
+"{'Monday': '9:30-19:0', 'Tuesday': '9:30-19:0', 'Wednesday': '9:30-19:0', 'Thursday': '9:30-19:0', 'Friday': '9:30-19:0', 'Saturday': '9:30-18:0', 'Sunday': '10:0-16:0'}",a209
+"{'Tuesday': '9:30-19:0', 'Wednesday': '9:30-19:0', 'Thursday': '9:30-19:0', 'Friday': '9:30-19:0', 'Saturday': '9:30-19:0', 'Sunday': '10:0-16:0'}",a210
+"{'Monday': '0:0-0:0', 'Tuesday': '10:0-18:0', 'Wednesday': '10:0-18:0', 'Thursday': '10:0-18:0', 'Friday': '9:0-19:0', 'Saturday': '9:0-18:0', 'Sunday': '11:0-17:0'}",a211
+"{'Monday': '10:0-15:0', 'Tuesday': '10:0-19:0', 'Wednesday': '10:0-19:0', 'Thursday': '10:0-19:0', 'Friday': '10:0-18:0', 'Saturday': '10:0-15:0'}",a212
+"{'Monday': '0:0-0:0', 'Tuesday': '9:30-19:30', 'Wednesday': '9:30-19:30', 'Thursday': '9:30-19:30', 'Friday': '9:30-19:30', 'Saturday': '9:30-19:30', 'Sunday': '11:0-17:0'}",a213
+"{'Tuesday': '10:0-15:0', 'Wednesday': '10:0-20:0', 'Thursday': '10:0-17:30', 'Friday': '10:0-17:30', 'Saturday': '9:0-17:0'}",a214
+"{'Monday': '0:0-0:0', 'Tuesday': '10:0-19:0', 'Wednesday': '10:0-19:0', 'Thursday': '10:0-19:0', 'Friday': '10:0-19:0', 'Saturday': '10:0-19:0', 'Sunday': '11:0-16:0'}",a215
+"{'Tuesday': '9:0-19:0', 'Wednesday': '9:0-19:0', 'Thursday': '9:0-19:0', 'Friday': '9:0-17:0', 'Saturday': '9:0-17:0'}",a216
+"{'Monday': '9:30-19:30', 'Tuesday': '9:30-19:30', 'Wednesday': '9:30-9:45', 'Thursday': '9:30-9:45', 'Friday': '9:30-19:30', 'Saturday': '9:30-19:30', 'Sunday': '11:0-17:0'}",a217
+"{'Monday': '0:0-0:0', 'Tuesday': '9:0-18:30', 'Wednesday': '9:0-18:30', 'Thursday': '9:0-18:30', 'Friday': '9:0-18:30', 'Saturday': '9:0-18:30'}",a218
+"{'Tuesday': '9:30-19:0', 'Wednesday': '9:30-19:0', 'Thursday': '9:30-19:0', 'Friday': '9:30-19:0', 'Saturday': '9:30-18:30'}",a219
+"{'Tuesday': '10:0-18:0', 'Wednesday': '10:0-18:0', 'Thursday': '10:0-19:0', 'Friday': '10:0-18:0', 'Saturday': '10:0-17:0'}",a220
+"{'Monday': '9:30-19:30', 'Tuesday': '9:30-19:30', 'Wednesday': '9:30-19:30', 'Thursday': '9:30-19:30', 'Friday': '9:30-19:30', 'Saturday': '9:30-19:0'}",a221
+"{'Monday': '0:0-0:0', 'Tuesday': '12:0-16:0', 'Wednesday': '9:0-18:0', 'Thursday': '9:0-18:0', 'Friday': '9:0-18:0', 'Saturday': '9:0-16:0'}",a222
+"{'Monday': '0:0-0:0', 'Tuesday': '9:30-18:0', 'Wednesday': '9:30-19:30', 'Thursday': '9:30-19:30', 'Friday': '9:30-19:30', 'Saturday': '9:30-19:30', 'Sunday': '11:0-17:0'}",a223
+"{'Monday': '0:0-0:0', 'Tuesday': '9:30-19:30', 'Wednesday': '9:30-19:30', 'Thursday': '9:30-19:30', 'Friday': '9:30-17:0', 'Saturday': '9:30-19:30'}",a224
+"{'Monday': '0:0-0:0', 'Tuesday': '9:30-19:30', 'Wednesday': '9:30-19:30', 'Thursday': '9:30-19:30', 'Friday': '12:0-19:30', 'Saturday': '9:30-19:30', 'Sunday': '11:0-18:0'}",a225
+"{'Tuesday': '10:0-19:0', 'Wednesday': '10:0-19:0', 'Thursday': '10:0-19:0', 'Friday': '10:0-19:0', 'Saturday': '10:0-19:0', 'Sunday': '10:0-10:30'}",a226
+"{'Monday': '0:0-0:0', 'Tuesday': '9:30-13:0', 'Wednesday': '9:30-19:0', 'Thursday': '9:30-19:0', 'Friday': '9:30-18:0', 'Saturday': '9:30-17:0'}",a227
+"{'Monday': '9:0-17:0', 'Tuesday': '9:0-21:0', 'Wednesday': '9:0-21:0', 'Thursday': '9:0-21:0', 'Friday': '9:0-21:0', 'Saturday': '9:0-21:0', 'Sunday': '10:0-18:0'}",a228
+"{'Monday': '0:0-0:0', 'Tuesday': '8:30-21:0', 'Wednesday': '8:30-21:0', 'Thursday': '8:30-17:0', 'Friday': '8:30-20:0', 'Saturday': '8:30-18:0'}",a229
+"{'Monday': '9:30-19:0', 'Tuesday': '9:30-19:0', 'Wednesday': '9:30-19:0', 'Thursday': '9:30-19:0', 'Friday': '9:30-19:0', 'Saturday': '9:30-18:30', 'Sunday': '11:0-16:0'}",a230
+"{'Monday': '0:0-0:0', 'Tuesday': '9:0-19:0', 'Wednesday': '9:0-19:0', 'Thursday': '9:0-19:0', 'Friday': '9:0-19:0', 'Saturday': '9:0-18:0', 'Sunday': '11:0-17:0'}",a231
+"{'Tuesday': '9:30-17:0', 'Wednesday': '9:0-17:0', 'Thursday': '9:0-17:0', 'Friday': '9:0-17:0', 'Saturday': '9:0-17:0', 'Sunday': '9:0-12:0'}",a232
+"{'Tuesday': '9:0-18:0', 'Wednesday': '9:0-18:0', 'Thursday': '9:0-18:0', 'Friday': '9:0-18:0', 'Saturday': '9:0-18:0'}",a233
+"{'Monday': '0:0-0:0', 'Tuesday': '9:30-19:0', 'Wednesday': '9:30-19:0', 'Thursday': '9:30-19:0', 'Friday': '9:30-19:0', 'Saturday': '9:30-19:0', 'Sunday': '10:0-17:0'}",a234
+"{'Monday': '8:30-19:0', 'Tuesday': '8:30-19:0', 'Wednesday': '8:30-19:0', 'Thursday': '8:30-19:0', 'Friday': '8:30-19:0', 'Saturday': '8:30-19:0'}",a235
+"{'Monday': '10:0-20:0', 'Tuesday': '10:0-20:0', 'Wednesday': '10:0-20:0', 'Thursday': '10:0-20:0', 'Friday': '10:0-20:0', 'Saturday': '10:0-20:0', 'Sunday': '11:0-18:0'}",a236
+"{'Monday': '0:0-0:0', 'Tuesday': '9:0-19:0', 'Wednesday': '9:0-19:0', 'Thursday': '9:0-19:0', 'Friday': '9:0-18:0', 'Saturday': '9:0-19:0', 'Sunday': '11:0-17:0'}",a237
+"{'Monday': '9:0-19:30', 'Tuesday': '9:0-19:30', 'Wednesday': '9:0-19:30', 'Thursday': '9:0-19:30', 'Friday': '9:0-19:30', 'Saturday': '9:30-19:0', 'Sunday': '11:0-16:30'}",a238
+"{'Monday': '0:0-0:0', 'Tuesday': '9:0-18:0', 'Wednesday': '9:0-19:30', 'Thursday': '9:0-19:30', 'Friday': '9:0-19:30', 'Saturday': '9:0-19:30', 'Sunday': '10:30-18:0'}",a239
+"{'Monday': '9:30-19:0', 'Tuesday': '9:30-19:0', 'Wednesday': '9:30-19:0', 'Thursday': '9:30-19:0', 'Friday': '9:30-19:0', 'Saturday': '9:30-18:30'}",a240
+"{'Monday': '9:30-19:0', 'Tuesday': '9:30-19:0', 'Wednesday': '9:30-19:0', 'Thursday': '9:30-19:0', 'Friday': '9:30-19:0', 'Saturday': '9:30-19:0', 'Sunday': '11:30-17:0'}",a241
+"{'Tuesday': '10:0-19:0', 'Wednesday': '10:0-19:0', 'Thursday': '10:0-21:0', 'Friday': '9:0-18:0', 'Saturday': '9:0-17:0'}",a242
+"{'Monday': '9:0-17:0', 'Tuesday': '9:0-20:0', 'Wednesday': '9:0-19:0', 'Thursday': '9:0-20:0', 'Friday': '9:0-17:0', 'Saturday': '9:0-17:0'}",a243
+"{'Tuesday': '9:0-18:30', 'Wednesday': '9:0-18:30', 'Thursday': '9:0-18:30', 'Friday': '9:0-18:30', 'Saturday': '9:0-18:30', 'Sunday': '11:0-17:0'}",a244
+"{'Monday': '9:0-20:0', 'Tuesday': '9:0-20:0', 'Wednesday': '9:0-20:0', 'Thursday': '9:0-20:0', 'Friday': '9:0-20:0', 'Saturday': '9:0-16:0', 'Sunday': '14:0-19:0'}",a245
+"{'Monday': '11:0-19:0', 'Tuesday': '11:0-19:0', 'Wednesday': '11:0-19:0', 'Thursday': '11:0-19:0', 'Friday': '10:0-20:0', 'Saturday': '10:0-20:0', 'Sunday': '12:0-18:0'}",a246
+"{'Monday': '9:30-19:30', 'Tuesday': '9:30-19:30', 'Wednesday': '9:30-19:30', 'Thursday': '9:30-19:30', 'Friday': '9:30-19:30', 'Saturday': '9:0-19:30', 'Sunday': '10:30-17:0'}",a247
+"{'Tuesday': '9:30-18:45', 'Wednesday': '9:30-18:45', 'Thursday': '9:30-18:45', 'Friday': '9:30-18:45', 'Saturday': '9:30-18:45', 'Sunday': '11:0-16:30'}",a248
+"{'Monday': '0:0-0:0', 'Tuesday': '9:0-20:0', 'Wednesday': '9:0-20:0', 'Thursday': '9:0-16:0', 'Friday': '9:0-20:0', 'Saturday': '9:0-18:0', 'Sunday': '10:0-17:0'}",a249
+"{'Wednesday': '10:30-18:30', 'Thursday': '12:0-20:0', 'Friday': '10:30-18:30', 'Saturday': '10:30-18:30', 'Sunday': '11:0-16:0'}",a250
+"{'Monday': '9:0-20:0', 'Tuesday': '9:0-20:0', 'Wednesday': '9:0-20:0', 'Thursday': '9:0-20:0', 'Friday': '9:0-20:0', 'Saturday': '8:0-20:0'}",a251
+"{'Monday': '0:0-0:0', 'Tuesday': '10:0-20:0', 'Wednesday': '10:0-20:0', 'Thursday': '10:0-20:0', 'Friday': '10:0-20:0', 'Saturday': '9:0-20:0', 'Sunday': '10:0-18:0'}",a252
+"{'Monday': '0:0-0:0', 'Tuesday': '9:0-16:0', 'Wednesday': '9:0-15:0', 'Thursday': '9:0-19:0', 'Friday': '9:0-19:0', 'Saturday': '9:0-18:0', 'Sunday': '11:0-17:0'}",a253
+"{'Monday': '9:0-17:0', 'Tuesday': '9:0-17:0', 'Wednesday': '9:0-17:0', 'Thursday': '9:0-17:0', 'Friday': '9:0-17:0', 'Saturday': '9:0-17:0', 'Sunday': '9:0-17:0'}",a254
+"{'Monday': '0:0-0:0', 'Tuesday': '10:0-19:0', 'Wednesday': '10:0-19:0', 'Thursday': '10:0-19:0', 'Friday': '10:0-19:0', 'Saturday': '10:0-19:0', 'Sunday': '10:30-17:0'}",a255
+"{'Monday': '9:0-19:0', 'Tuesday': '9:0-19:0', 'Wednesday': '9:0-19:0', 'Thursday': '9:0-19:0', 'Friday': '9:0-19:0', 'Saturday': '9:0-19:0', 'Sunday': '11:0-18:0'}",a256
+"{'Monday': '10:0-19:0', 'Tuesday': '10:0-19:0', 'Wednesday': '10:0-19:0', 'Thursday': '10:0-19:0', 'Friday': '10:0-19:0', 'Saturday': '9:0-19:0', 'Sunday': '10:0-17:0'}",a257
+"{'Monday': '0:0-0:0', 'Tuesday': '10:0-19:0', 'Wednesday': '10:0-19:0', 'Thursday': '10:0-19:0', 'Friday': '10:0-19:0', 'Saturday': '10:0-19:0', 'Sunday': '11:0-17:0'}",a258
+"{'Monday': '0:0-0:0', 'Tuesday': '10:0-17:0', 'Wednesday': '10:0-20:0', 'Thursday': '10:0-20:0', 'Friday': '10:0-20:0', 'Saturday': '10:0-17:0'}",a259
+"{'Monday': '0:0-0:0', 'Tuesday': '7:0-15:0', 'Wednesday': '8:0-18:0', 'Thursday': '7:0-16:0', 'Friday': '7:0-16:0', 'Saturday': '7:0-12:0'}",a260
+"{'Monday': '9:30-19:30', 'Tuesday': '9:30-19:30', 'Wednesday': '9:30-19:30', 'Thursday': '9:30-19:30', 'Friday': '9:30-19:30', 'Saturday': '9:0-18:0', 'Sunday': '11:0-17:0'}",a261
+"{'Wednesday': '10:0-19:0', 'Thursday': '10:0-19:0', 'Friday': '10:0-19:0', 'Saturday': '10:0-19:0', 'Sunday': '11:0-17:0'}",a262
+"{'Monday': '10:0-19:0', 'Tuesday': '10:0-19:0', 'Wednesday': '10:0-19:0', 'Thursday': '10:0-19:0', 'Friday': '10:0-19:0', 'Saturday': '10:0-19:0'}",a263
+"{'Monday': '0:0-0:0', 'Tuesday': '9:30-19:0', 'Wednesday': '9:30-19:0', 'Thursday': '9:30-17:0', 'Friday': '11:0-17:0', 'Saturday': '9:30-18:0', 'Sunday': '11:0-17:0'}",a264
+"{'Monday': '0:0-0:0', 'Tuesday': '9:45-18:0', 'Wednesday': '9:45-19:0', 'Thursday': '9:45-19:0', 'Friday': '9:45-17:0', 'Saturday': '9:0-17:0'}",a265
+"{'Monday': '0:0-0:0', 'Wednesday': '10:0-19:0', 'Thursday': '10:0-19:0', 'Friday': '10:0-19:0', 'Saturday': '10:0-18:0', 'Sunday': '11:0-16:30'}",a266
+"{'Tuesday': '12:0-19:0', 'Wednesday': '10:0-14:0', 'Thursday': '10:0-19:0', 'Friday': '10:0-19:0', 'Saturday': '10:0-19:0', 'Sunday': '11:0-17:0'}",a267
+"{'Monday': '10:0-19:30', 'Tuesday': '10:0-19:30', 'Wednesday': '10:0-19:30', 'Thursday': '10:0-19:30', 'Friday': '10:0-19:30', 'Saturday': '9:0-19:0', 'Sunday': '11:0-17:0'}",a268
+"{'Monday': '0:0-0:0', 'Tuesday': '9:30-19:30', 'Wednesday': '9:30-19:30', 'Thursday': '9:30-19:30', 'Friday': '9:30-19:30', 'Saturday': '9:30-18:0'}",a269
+"{'Monday': '0:0-0:0', 'Tuesday': '10:0-19:0', 'Wednesday': '9:0-17:0', 'Thursday': '10:0-19:0', 'Friday': '9:0-17:0', 'Saturday': '9:0-16:0'}",a270
+"{'Monday': '9:30-19:0', 'Tuesday': '9:30-19:0', 'Wednesday': '9:30-19:0', 'Thursday': '9:30-19:0', 'Friday': '9:30-19:0', 'Saturday': '9:0-18:30', 'Sunday': '11:0-17:0'}",a271
+"{'Monday': '0:0-0:0', 'Tuesday': '9:0-21:30', 'Wednesday': '9:0-21:30', 'Thursday': '9:0-21:30', 'Friday': '9:0-21:30', 'Saturday': '9:0-19:0', 'Sunday': '9:0-19:0'}",a272
+"{'Tuesday': '10:0-19:0', 'Wednesday': '10:0-19:0', 'Thursday': '10:0-19:0', 'Friday': '10:0-19:0', 'Saturday': '10:0-17:0'}",a273
+"{'Monday': '0:0-0:0', 'Tuesday': '9:0-16:0', 'Wednesday': '9:0-19:0', 'Thursday': '9:0-19:0', 'Friday': '9:0-18:0', 'Saturday': '9:0-17:0'}",a274
+"{'Monday': '0:0-0:0', 'Tuesday': '10:0-15:30', 'Wednesday': '10:0-19:0', 'Thursday': '10:0-19:0', 'Friday': '10:0-19:0', 'Saturday': '10:0-19:0', 'Sunday': '11:0-17:0'}",a275
+"{'Monday': '11:0-19:0', 'Tuesday': '9:30-19:30', 'Wednesday': '9:30-19:30', 'Thursday': '9:30-19:30', 'Friday': '9:0-19:30', 'Saturday': '9:0-19:30', 'Sunday': '11:0-17:0'}",a276
+"{'Monday': '0:0-0:0', 'Tuesday': '10:0-19:0', 'Wednesday': '10:0-19:0', 'Thursday': '10:0-19:0', 'Friday': '10:0-21:0', 'Saturday': '9:0-18:0', 'Sunday': '11:0-17:0'}",a277
+"{'Monday': '0:0-0:0', 'Tuesday': '10:0-18:0', 'Wednesday': '10:0-21:0', 'Thursday': '10:0-21:0', 'Friday': '10:0-21:0', 'Saturday': '10:0-21:0', 'Sunday': '12:0-18:0'}",a278
+"{'Tuesday': '10:0-17:0', 'Wednesday': '10:0-19:0', 'Thursday': '10:0-19:0', 'Friday': '10:0-17:0', 'Saturday': '10:0-16:0'}",a279
+"{'Monday': '9:30-18:0', 'Tuesday': '9:30-18:0', 'Wednesday': '9:30-18:0', 'Thursday': '9:30-18:0', 'Friday': '9:30-18:0', 'Saturday': '9:30-18:0'}",a280
+"{'Monday': '10:0-19:30', 'Tuesday': '10:0-19:30', 'Wednesday': '10:0-19:30', 'Thursday': '10:0-19:30', 'Friday': '10:0-19:30', 'Saturday': '9:0-18:0', 'Sunday': '11:0-17:0'}",a281
+"{'Monday': '10:0-18:0', 'Tuesday': '10:0-18:0', 'Wednesday': '10:0-18:0', 'Thursday': '10:0-18:0', 'Friday': '10:0-18:0', 'Saturday': '10:0-19:0'}",a282
+"{'Tuesday': '9:0-20:0', 'Wednesday': '9:0-20:0', 'Thursday': '9:0-20:0', 'Friday': '9:0-18:0', 'Saturday': '9:0-16:0'}",a283
+"{'Monday': '10:0-19:0', 'Tuesday': '10:0-19:0', 'Wednesday': '10:0-19:0', 'Thursday': '10:0-19:0', 'Friday': '10:0-19:0', 'Saturday': '10:0-19:0', 'Sunday': '10:0-17:0'}",a284
+"{'Monday': '9:30-19:30', 'Tuesday': '9:30-19:30', 'Wednesday': '9:30-19:30', 'Thursday': '9:30-19:30', 'Friday': '9:30-19:30', 'Saturday': '9:30-19:30', 'Sunday': '10:30-16:30'}",a285
+"{'Monday': '9:0-19:30', 'Tuesday': '9:0-19:30', 'Wednesday': '9:0-19:30', 'Thursday': '9:0-19:30', 'Friday': '9:0-19:30', 'Saturday': '9:0-18:30'}",a286
+"{'Monday': '9:30-19:0', 'Tuesday': '9:30-19:0', 'Wednesday': '9:30-19:0', 'Thursday': '9:30-19:0', 'Friday': '9:30-19:0', 'Saturday': '9:30-19:0', 'Sunday': '10:0-16:0'}",a287
+"{'Monday': '9:0-19:30', 'Tuesday': '9:0-19:30', 'Wednesday': '9:0-19:30', 'Thursday': '9:0-19:30', 'Friday': '9:0-19:30', 'Saturday': '9:0-19:30'}",a288
+"{'Monday': '9:30-19:30', 'Tuesday': '9:30-19:30', 'Wednesday': '9:30-19:30', 'Thursday': '9:30-19:30', 'Friday': '9:30-19:30', 'Saturday': '9:30-19:30', 'Sunday': '11:0-17:30'}",a289
+"{'Monday': '0:0-0:0', 'Tuesday': '9:0-19:0', 'Wednesday': '9:0-19:0', 'Thursday': '9:0-19:0', 'Friday': '9:0-18:0', 'Saturday': '9:0-18:0', 'Sunday': '10:0-17:0'}",a290
+"{'Monday': '0:0-0:0', 'Tuesday': '10:0-19:0', 'Wednesday': '10:0-19:0', 'Thursday': '10:0-19:0', 'Friday': '10:0-19:0', 'Saturday': '9:0-18:0', 'Sunday': '11:0-17:0'}",a291
+"{'Monday': '9:30-19:0', 'Tuesday': '9:30-19:0', 'Wednesday': '9:30-19:0', 'Thursday': '9:30-19:0', 'Friday': '9:30-19:0', 'Saturday': '9:30-19:0', 'Sunday': '10:0-17:0'}",a292
+"{'Tuesday': '10:0-20:0', 'Wednesday': '10:0-20:0', 'Thursday': '10:0-17:0', 'Friday': '10:0-17:0', 'Saturday': '9:0-16:0'}",a293
+"{'Monday': '0:0-0:0', 'Tuesday': '9:30-19:0', 'Wednesday': '9:30-19:0', 'Thursday': '9:30-19:0', 'Friday': '9:30-19:0', 'Saturday': '9:30-19:0'}",a294
+"{'Monday': '9:30-19:30', 'Tuesday': '9:30-19:30', 'Wednesday': '9:30-19:30', 'Thursday': '9:30-19:30', 'Friday': '9:30-19:30', 'Saturday': '9:30-19:30', 'Sunday': '11:0-18:0'}",a295
+"{'Monday': '0:0-0:0', 'Tuesday': '9:30-19:30', 'Wednesday': '9:30-19:30', 'Thursday': '9:30-19:30', 'Friday': '9:30-19:30', 'Saturday': '9:30-19:30', 'Sunday': '10:0-18:0'}",a296
+"{'Tuesday': '10:0-20:0', 'Wednesday': '10:0-20:0', 'Thursday': '10:0-20:0', 'Friday': '10:0-18:0', 'Saturday': '9:0-16:0'}",a297
+"{'Monday': '0:0-0:0', 'Tuesday': '10:0-20:0', 'Wednesday': '10:0-20:0', 'Thursday': '10:0-20:0', 'Friday': '10:0-16:0', 'Saturday': '11:0-17:0', 'Sunday': '11:0-15:0'}",a298
+"{'Monday': '8:0-21:0', 'Tuesday': '8:0-21:0', 'Wednesday': '8:0-21:0', 'Thursday': '8:0-21:0', 'Friday': '9:0-19:0', 'Saturday': '9:0-17:0', 'Sunday': '10:0-17:0'}",a299
+"{'Tuesday': '10:0-19:0', 'Wednesday': '10:0-19:0', 'Thursday': '10:0-19:0', 'Friday': '10:0-19:0', 'Saturday': '9:0-15:0'}",a300
+"{'Monday': '0:0-0:0', 'Tuesday': '10:0-19:0', 'Wednesday': '10:0-18:0', 'Thursday': '10:0-19:0', 'Friday': '9:0-19:0', 'Saturday': '9:0-19:0', 'Sunday': '11:0-16:30'}",a301
+"{'Monday': '9:0-18:0', 'Tuesday': '9:0-18:0', 'Wednesday': '9:0-18:0', 'Thursday': '9:0-18:0', 'Friday': '9:0-18:0', 'Saturday': '9:0-17:0'}",a302
+"{'Monday': '10:0-19:30', 'Tuesday': '10:0-19:30', 'Wednesday': '10:0-19:30', 'Thursday': '10:0-19:30', 'Friday': '10:0-19:30', 'Saturday': '9:30-19:0'}",a303
+"{'Monday': '9:30-19:30', 'Wednesday': '9:30-19:30', 'Thursday': '9:30-19:30', 'Friday': '9:30-19:30', 'Saturday': '9:30-19:30', 'Sunday': '11:0-17:0'}",a304
+"{'Tuesday': '10:0-18:30', 'Wednesday': '10:0-18:30', 'Thursday': '10:0-18:30', 'Friday': '10:0-18:30', 'Saturday': '10:0-18:30'}",a305
+"{'Monday': '9:0-17:0', 'Tuesday': '9:0-17:0', 'Wednesday': '9:0-17:0', 'Thursday': '9:0-17:0', 'Friday': '9:0-17:0', 'Saturday': '9:30-17:0', 'Sunday': '9:0-17:0'}",a306
+"{'Monday': '0:0-0:0', 'Tuesday': '9:30-20:0', 'Wednesday': '9:30-20:0', 'Thursday': '10:0-14:0', 'Friday': '9:30-17:0', 'Saturday': '9:30-17:0'}",a307
+"{'Monday': '0:0-0:0', 'Tuesday': '10:0-19:0', 'Wednesday': '10:0-19:0', 'Thursday': '10:0-19:0', 'Friday': '10:0-19:0', 'Saturday': '9:30-18:0', 'Sunday': '11:0-17:0'}",a308
+"{'Tuesday': '9:0-20:0', 'Wednesday': '9:0-20:0', 'Thursday': '9:0-20:0', 'Friday': '9:0-20:0', 'Saturday': '9:0-18:0'}",a309
+"{'Monday': '0:0-0:0', 'Tuesday': '9:30-19:30', 'Wednesday': '9:30-19:30', 'Thursday': '9:30-19:30', 'Friday': '10:0-18:0', 'Saturday': '9:30-19:0', 'Sunday': '11:0-17:0'}",a310
+"{'Monday': '9:30-19:0', 'Tuesday': '9:30-19:0', 'Wednesday': '9:30-19:0', 'Thursday': '9:30-19:0', 'Friday': '9:30-19:0', 'Saturday': '9:0-19:0', 'Sunday': '10:30-17:0'}",a311
+"{'Monday': '0:0-0:0', 'Tuesday': '10:0-20:0', 'Wednesday': '10:0-20:0', 'Thursday': '10:0-20:0', 'Friday': '10:0-19:0', 'Saturday': '10:0-18:0', 'Sunday': '10:0-18:0'}",a312
+"{'Monday': '10:30-19:30', 'Tuesday': '10:30-19:30', 'Wednesday': '10:30-19:30', 'Thursday': '10:30-19:30', 'Friday': '10:30-19:30', 'Saturday': '10:30-20:0'}",a313
+"{'Monday': '9:0-19:30', 'Tuesday': '9:0-19:30', 'Wednesday': '9:0-19:30', 'Thursday': '9:0-19:30', 'Friday': '9:0-19:30', 'Saturday': '9:0-18:0', 'Sunday': '10:0-17:0'}",a314
+"{'Tuesday': '9:0-18:0', 'Wednesday': '9:0-18:0', 'Thursday': '9:0-18:0', 'Friday': '9:0-18:0', 'Saturday': '9:0-16:0'}",a315
+"{'Monday': '10:0-18:30', 'Tuesday': '10:0-18:30', 'Wednesday': '10:0-18:30', 'Thursday': '10:0-18:30', 'Friday': '10:0-19:30', 'Saturday': '10:0-19:30'}",a316
+"{'Monday': '0:0-0:0', 'Tuesday': '9:0-19:0', 'Wednesday': '9:0-19:0', 'Thursday': '9:0-19:0', 'Friday': '9:0-19:0', 'Saturday': '9:0-19:30', 'Sunday': '11:0-17:0'}",a317
+"{'Monday': '9:0-19:0', 'Tuesday': '9:0-19:0', 'Wednesday': '9:0-19:0', 'Thursday': '9:0-19:0', 'Friday': '9:0-19:0', 'Saturday': '11:0-17:30'}",a318
+"{'Tuesday': '9:0-17:0', 'Wednesday': '9:0-20:0', 'Thursday': '9:0-18:0', 'Friday': '9:0-20:0', 'Saturday': '9:0-16:0'}",a319
+"{'Tuesday': '9:30-19:0', 'Wednesday': '9:30-19:0', 'Thursday': '9:30-19:0', 'Friday': '9:30-19:0', 'Saturday': '9:30-18:0', 'Sunday': '11:0-17:0'}",a320
+"{'Tuesday': '10:0-18:0', 'Wednesday': '10:0-18:0', 'Thursday': '10:0-18:0', 'Friday': '10:0-18:0', 'Saturday': '11:0-17:0'}",a321
+"{'Monday': '9:30-20:0', 'Tuesday': '9:0-20:0', 'Wednesday': '9:0-20:0', 'Thursday': '9:0-20:0', 'Friday': '9:0-20:0', 'Saturday': '9:0-17:0'}",a322
+"{'Monday': '9:0-19:0', 'Tuesday': '9:0-19:0', 'Wednesday': '9:0-19:0', 'Thursday': '9:0-19:0', 'Friday': '9:0-19:0', 'Saturday': '9:0-19:0', 'Sunday': '11:0-15:0'}",a323
+"{'Monday': '12:0-19:0', 'Tuesday': '10:0-19:0', 'Wednesday': '10:0-19:0', 'Thursday': '10:0-19:0', 'Friday': '10:0-19:0', 'Saturday': '9:0-17:0'}",a324
+"{'Monday': '0:0-0:0', 'Tuesday': '11:0-18:0', 'Wednesday': '11:0-18:0', 'Thursday': '11:0-18:0', 'Friday': '11:0-18:0', 'Saturday': '11:0-18:0', 'Sunday': '12:0-17:0'}",a325
+"{'Tuesday': '9:30-19:30', 'Wednesday': '9:30-19:30', 'Thursday': '9:30-19:30', 'Friday': '9:30-19:30', 'Saturday': '9:30-18:30', 'Sunday': '11:0-17:0'}",a326
+"{'Monday': '0:0-0:0', 'Tuesday': '9:0-17:0', 'Wednesday': '10:0-19:0', 'Thursday': '9:0-17:0', 'Friday': '9:0-15:0', 'Saturday': '9:0-13:0'}",a327
+"{'Tuesday': '9:0-20:0', 'Wednesday': '9:0-20:0', 'Thursday': '9:0-20:0', 'Friday': '9:0-17:0', 'Saturday': '9:0-17:0'}",a328
+"{'Monday': '9:30-19:30', 'Tuesday': '9:30-19:30', 'Wednesday': '9:30-19:30', 'Thursday': '9:30-19:30', 'Friday': '9:30-19:30', 'Saturday': '9:30-19:30', 'Sunday': '12:0-17:30'}",a329
+"{'Monday': '11:0-17:0', 'Tuesday': '9:30-19:30', 'Wednesday': '9:30-19:30', 'Thursday': '9:30-19:30', 'Friday': '9:30-19:30', 'Saturday': '9:30-19:0', 'Sunday': '11:0-17:0'}",a330
+"{'Monday': '9:30-19:0', 'Tuesday': '9:30-19:0', 'Wednesday': '9:30-19:0', 'Thursday': '9:30-19:0', 'Friday': '9:0-19:0', 'Saturday': '9:0-19:0', 'Sunday': '11:0-17:0'}",a331
+"{'Monday': '0:0-0:0', 'Tuesday': '9:30-19:0', 'Wednesday': '9:30-19:0', 'Thursday': '9:30-19:0', 'Friday': '9:30-19:0', 'Saturday': '9:30-19:0', 'Sunday': '11:0-16:0'}",a332
+"{'Monday': '0:0-0:0', 'Tuesday': '10:0-20:0', 'Wednesday': '10:0-20:0', 'Thursday': '10:0-20:0', 'Friday': '10:0-15:0', 'Saturday': '10:0-17:0'}",a333
+"{'Monday': '9:30-20:0', 'Tuesday': '9:30-20:0', 'Wednesday': '9:30-20:0', 'Thursday': '9:30-20:0', 'Friday': '9:30-20:0', 'Saturday': '9:30-20:0'}",a334
+"{'Monday': '10:0-21:0', 'Tuesday': '10:0-21:0', 'Wednesday': '10:0-21:0', 'Thursday': '10:0-21:0', 'Friday': '10:0-21:0', 'Saturday': '10:0-21:0', 'Sunday': '12:0-18:0'}",a335
+"{'Tuesday': '10:0-20:0', 'Wednesday': '10:0-20:0', 'Thursday': '10:0-20:0', 'Friday': '10:0-20:0', 'Saturday': '10:0-18:0'}",a336
+"{'Tuesday': '9:0-19:0', 'Wednesday': '9:0-19:0', 'Thursday': '9:0-19:0', 'Friday': '9:0-19:0', 'Saturday': '9:0-17:0'}",a337
+"{'Tuesday': '10:0-18:0', 'Wednesday': '10:0-18:0', 'Thursday': '10:0-20:0', 'Friday': '10:0-20:0', 'Saturday': '9:0-17:0', 'Sunday': '10:0-14:0'}",a338
+"{'Tuesday': '10:0-19:0', 'Wednesday': '10:0-19:0', 'Thursday': '10:0-20:0', 'Friday': '10:0-20:0', 'Saturday': '9:0-17:0'}",a339
+"{'Monday': '10:0-21:0', 'Tuesday': '10:0-21:0', 'Wednesday': '10:0-21:0', 'Thursday': '10:0-21:0', 'Friday': '10:0-21:0', 'Saturday': '10:0-21:0', 'Sunday': '11:0-19:0'}",a340
+"{'Monday': '10:0-20:0', 'Tuesday': '10:0-20:0', 'Wednesday': '10:0-20:0', 'Thursday': '10:0-20:0', 'Friday': '10:0-20:0', 'Saturday': '10:0-18:0', 'Sunday': '11:0-17:0'}",a341
+"{'Monday': '0:0-0:0', 'Tuesday': '8:30-19:30', 'Wednesday': '8:30-19:30', 'Thursday': '8:30-19:30', 'Friday': '8:30-19:30', 'Saturday': '8:30-18:0', 'Sunday': '11:0-17:0'}",a342
+"{'Monday': '0:0-0:0', 'Tuesday': '10:0-20:0', 'Wednesday': '10:0-20:0', 'Thursday': '10:0-20:0', 'Friday': '10:0-20:0', 'Saturday': '10:0-20:0'}",a343
+"{'Monday': '9:30-19:30', 'Tuesday': '9:30-19:30', 'Wednesday': '9:30-19:30', 'Thursday': '9:30-19:30', 'Friday': '9:30-19:30', 'Saturday': '9:30-19:30', 'Sunday': '13:0-16:0'}",a344
+"{'Monday': '10:0-19:0', 'Tuesday': '10:0-19:0', 'Wednesday': '9:30-19:30', 'Thursday': '9:30-19:30', 'Friday': '9:30-19:30', 'Saturday': '9:0-18:30', 'Sunday': '11:0-16:30'}",a345
+"{'Monday': '9:30-19:30', 'Tuesday': '9:30-19:30', 'Wednesday': '9:30-19:30', 'Thursday': '9:30-19:30', 'Friday': '9:30-19:30', 'Saturday': '9:30-18:0'}",a346
+"{'Monday': '9:0-19:0', 'Tuesday': '9:0-19:0', 'Wednesday': '9:0-19:0', 'Thursday': '9:0-19:0', 'Friday': '9:0-17:0', 'Saturday': '10:0-17:0'}",a347
+"{'Monday': '10:0-19:0', 'Tuesday': '10:0-19:0', 'Wednesday': '10:0-19:0', 'Thursday': '10:0-19:0', 'Friday': '10:0-19:0', 'Saturday': '9:30-19:0'}",a348
+"{'Monday': '10:15-18:0', 'Tuesday': '10:15-19:0', 'Wednesday': '10:15-19:0', 'Thursday': '10:15-19:0', 'Friday': '10:15-19:0', 'Saturday': '10:15-17:0'}",a349
+"{'Tuesday': '9:0-20:0', 'Wednesday': '9:0-20:0', 'Thursday': '10:0-18:0', 'Friday': '9:0-17:0', 'Saturday': '9:0-17:0'}",a350
+"{'Monday': '0:0-0:0', 'Tuesday': '10:0-18:0', 'Wednesday': '10:0-18:0', 'Thursday': '10:0-18:0', 'Friday': '10:0-18:0', 'Saturday': '9:0-17:0'}",a351
+"{'Monday': '9:30-19:30', 'Tuesday': '9:30-19:30', 'Wednesday': '9:30-19:30', 'Thursday': '9:30-19:30', 'Friday': '9:30-19:30', 'Saturday': '9:0-19:0', 'Sunday': '11:0-18:0'}",a352
+"{'Monday': '0:0-0:0', 'Tuesday': '9:0-17:0', 'Wednesday': '9:0-19:0', 'Thursday': '9:0-19:0', 'Friday': '9:0-19:0', 'Saturday': '9:0-19:0'}",a353
+"{'Tuesday': '9:0-16:0', 'Wednesday': '9:0-17:0', 'Thursday': '9:0-19:0', 'Friday': '9:0-17:0', 'Saturday': '10:0-18:0'}",a354
+"{'Monday': '9:30-19:0', 'Wednesday': '9:30-19:0', 'Thursday': '9:30-19:0', 'Friday': '9:30-18:30', 'Saturday': '9:30-18:30'}",a355
+"{'Monday': '0:0-0:0', 'Tuesday': '9:30-17:0', 'Wednesday': '9:30-19:0', 'Thursday': '9:30-19:0', 'Friday': '9:30-19:0', 'Saturday': '9:30-18:0'}",a356
+"{'Monday': '0:0-0:0', 'Tuesday': '12:0-21:0', 'Wednesday': '10:0-21:0', 'Thursday': '10:0-21:0', 'Friday': '9:0-19:0', 'Saturday': '9:0-21:0', 'Sunday': '12:0-20:0'}",a357
+"{'Monday': '11:0-19:0', 'Tuesday': '11:0-19:0', 'Wednesday': '11:0-19:0', 'Thursday': '11:0-19:0', 'Friday': '10:0-20:0', 'Saturday': '10:0-20:0', 'Sunday': '11:0-19:0'}",a358
+"{'Monday': '9:30-19:0', 'Tuesday': '9:30-19:0', 'Wednesday': '9:30-19:0', 'Thursday': '9:30-19:0', 'Friday': '9:30-19:0', 'Saturday': '9:30-19:0', 'Sunday': '11:30-16:30'}",a359
+"{'Tuesday': '9:0-19:30', 'Wednesday': '9:0-19:30', 'Thursday': '9:0-19:30', 'Friday': '9:0-17:30', 'Saturday': '9:0-16:0'}",a360
+"{'Monday': '0:0-0:0', 'Tuesday': '10:0-18:0', 'Wednesday': '10:0-18:0', 'Thursday': '10:0-18:0', 'Friday': '10:0-18:0', 'Saturday': '10:0-16:0'}",a361
+"{'Monday': '0:0-0:0', 'Tuesday': '9:30-19:0', 'Wednesday': '9:30-19:0', 'Thursday': '9:30-17:0', 'Friday': '9:30-19:0', 'Saturday': '9:30-17:0'}",a362
+"{'Monday': '10:0-20:0', 'Tuesday': '10:0-20:0', 'Wednesday': '10:0-20:0', 'Thursday': '10:0-20:0', 'Friday': '10:0-20:0', 'Saturday': '10:0-20:0', 'Sunday': '10:0-18:0'}",a363
+"{'Tuesday': '10:0-19:0', 'Wednesday': '10:0-19:0', 'Thursday': '10:0-19:0', 'Friday': '10:0-19:0', 'Saturday': '8:0-17:0'}",a364
+"{'Monday': '0:0-0:0', 'Tuesday': '9:30-19:30', 'Wednesday': '9:30-19:30', 'Thursday': '9:30-19:30', 'Friday': '9:30-19:30', 'Saturday': '9:30-18:30'}",a365
+"{'Monday': '0:0-0:0', 'Tuesday': '10:0-19:0', 'Wednesday': '10:0-19:0', 'Thursday': '10:0-19:0', 'Friday': '10:0-19:0', 'Saturday': '10:0-18:0', 'Sunday': '12:0-17:0'}",a366
+"{'Monday': '9:30-19:30', 'Tuesday': '9:30-18:0', 'Wednesday': '9:30-19:30', 'Thursday': '9:30-19:30', 'Friday': '9:30-19:30', 'Saturday': '9:0-19:0', 'Sunday': '11:0-17:0'}",a367
+"{'Monday': '9:30-18:30', 'Tuesday': '9:30-18:30', 'Wednesday': '9:30-18:30', 'Thursday': '9:30-18:30', 'Friday': '9:30-18:30', 'Saturday': '9:30-17:30'}",a368
+"{'Monday': '0:0-0:0', 'Tuesday': '9:30-19:30', 'Wednesday': '9:30-19:30', 'Thursday': '9:30-19:30', 'Friday': '10:30-19:30', 'Saturday': '9:30-19:30', 'Sunday': '11:0-17:0'}",a369
+"{'Monday': '9:30-19:0', 'Tuesday': '9:30-19:0', 'Wednesday': '9:30-19:0', 'Thursday': '9:30-19:0', 'Friday': '9:30-19:0', 'Saturday': '9:0-19:0', 'Sunday': '11:0-17:0'}",a370
+"{'Monday': '0:0-0:0', 'Tuesday': '10:0-22:0', 'Wednesday': '10:0-22:0', 'Thursday': '10:0-22:0', 'Friday': '10:0-22:0', 'Saturday': '10:0-22:0', 'Sunday': '12:0-20:0'}",a371
+"{'Monday': '9:30-20:0', 'Tuesday': '9:30-20:0', 'Wednesday': '9:30-20:0', 'Thursday': '9:30-20:0', 'Friday': '9:30-20:0', 'Saturday': '9:30-20:0', 'Sunday': '11:0-17:0'}",a372
+"{'Tuesday': '10:0-15:0', 'Wednesday': '9:0-10:0', 'Thursday': '10:0-19:0', 'Friday': '10:0-18:0', 'Saturday': '10:0-19:0'}",a373
+"{'Tuesday': '9:0-18:0', 'Wednesday': '9:0-18:0', 'Thursday': '9:0-18:0', 'Friday': '9:0-18:0', 'Saturday': '9:0-17:0'}",a374
+"{'Monday': '0:0-0:0', 'Tuesday': '9:0-14:0', 'Wednesday': '9:0-20:0', 'Thursday': '9:0-20:0', 'Friday': '12:0-20:0', 'Saturday': '9:0-14:0'}",a375
+"{'Monday': '10:0-19:30', 'Tuesday': '10:0-19:30', 'Wednesday': '10:0-19:30', 'Thursday': '10:0-19:30', 'Friday': '10:0-19:30', 'Saturday': '9:0-19:0'}",a376
+"{'Monday': '11:0-20:0', 'Tuesday': '11:0-20:0', 'Wednesday': '11:0-20:0', 'Thursday': '11:0-20:0', 'Friday': '10:0-21:0', 'Saturday': '10:0-21:0', 'Sunday': '11:0-18:0'}",a377
+"{'Monday': '0:0-0:0', 'Tuesday': '10:0-14:0', 'Wednesday': '10:0-14:0', 'Thursday': '10:0-14:0', 'Friday': '10:0-14:0', 'Saturday': '9:0-15:0'}",a378
+"{'Tuesday': '10:0-18:0', 'Wednesday': '10:0-18:0', 'Thursday': '10:0-18:0', 'Friday': '10:0-18:0', 'Saturday': '10:0-15:0'}",a379
+"{'Monday': '9:30-19:30', 'Tuesday': '9:30-19:30', 'Wednesday': '9:30-19:30', 'Thursday': '9:30-19:30', 'Friday': '9:30-19:30', 'Saturday': '9:0-18:30', 'Sunday': '11:0-16:0'}",a380
+"{'Monday': '9:0-17:0', 'Tuesday': '9:0-17:0', 'Wednesday': '9:0-17:0', 'Thursday': '9:0-17:0', 'Friday': '9:0-17:0', 'Saturday': '9:0-12:0', 'Sunday': '12:0-16:0'}",a381
+"{'Monday': '0:0-0:0', 'Tuesday': '9:0-19:0', 'Wednesday': '9:0-19:0', 'Thursday': '9:0-19:0', 'Friday': '9:0-17:0', 'Saturday': '9:0-16:0'}",a382
+"{'Monday': '10:0-18:0', 'Tuesday': '10:0-20:0', 'Wednesday': '10:0-20:0', 'Thursday': '10:0-20:0', 'Friday': '10:0-18:0', 'Saturday': '9:0-18:0', 'Sunday': '12:0-18:0'}",a383
+"{'Monday': '0:0-0:0', 'Tuesday': '9:30-19:0', 'Wednesday': '9:30-19:0', 'Thursday': '9:30-19:0', 'Friday': '9:30-19:0', 'Saturday': '9:0-19:0', 'Sunday': '10:0-17:0'}",a384
+"{'Monday': '0:0-0:0', 'Tuesday': '9:30-19:30', 'Wednesday': '9:30-19:30', 'Thursday': '9:30-19:30', 'Friday': '9:30-19:30', 'Saturday': '9:0-19:0', 'Sunday': '11:0-17:0'}",a385
+"{'Monday': '0:0-0:0', 'Tuesday': '9:0-18:0', 'Wednesday': '9:0-18:0', 'Thursday': '9:0-15:0', 'Friday': '9:0-18:0', 'Saturday': '9:0-18:0'}",a386
+"{'Monday': '10:0-19:0', 'Tuesday': '10:0-19:0', 'Wednesday': '10:0-19:0', 'Thursday': '10:0-19:0', 'Friday': '10:0-20:0', 'Saturday': '10:0-20:0', 'Sunday': '10:0-20:0'}",a387
+"{'Tuesday': '9:0-19:0', 'Wednesday': '9:0-19:0', 'Thursday': '9:0-19:0', 'Friday': '9:0-19:0', 'Saturday': '10:0-19:0'}",a388
+"{'Monday': '9:30-19:0', 'Tuesday': '9:30-19:0', 'Wednesday': '9:30-19:0', 'Thursday': '9:30-19:0', 'Friday': '9:30-19:0', 'Saturday': '9:30-18:0', 'Sunday': '11:30-17:0'}",a389
+"{'Monday': '10:0-18:0', 'Tuesday': '10:0-21:0', 'Wednesday': '10:0-19:0', 'Thursday': '10:0-21:0', 'Friday': '10:0-19:0', 'Saturday': '10:0-19:0'}",a390
+"{'Monday': '0:0-0:0', 'Tuesday': '10:0-19:30', 'Wednesday': '10:0-19:30', 'Thursday': '10:0-19:30', 'Friday': '10:0-19:30', 'Saturday': '10:0-18:0', 'Sunday': '11:0-17:0'}",a391
+"{'Monday': '9:30-19:30', 'Tuesday': '9:30-19:30', 'Wednesday': '9:30-19:30', 'Thursday': '9:30-19:30', 'Friday': '9:30-19:30', 'Saturday': '9:30-18:30', 'Sunday': '11:0-17:0'}",a392
+"{'Monday': '9:0-21:0', 'Tuesday': '9:0-21:0', 'Wednesday': '9:0-21:0', 'Thursday': '9:0-21:0', 'Friday': '9:0-21:0', 'Saturday': '9:0-21:0', 'Sunday': '10:0-18:0'}",a393
+"{'Monday': '0:0-0:0', 'Tuesday': '9:0-19:0', 'Wednesday': '7:0-19:0', 'Thursday': '7:0-19:0', 'Friday': '7:0-16:0', 'Saturday': '7:0-19:0', 'Sunday': '9:0-17:0'}",a394
+"{'Monday': '0:0-0:0', 'Tuesday': '9:0-20:0', 'Wednesday': '9:0-20:0', 'Thursday': '9:0-20:0', 'Friday': '9:0-20:0', 'Saturday': '9:0-19:0', 'Sunday': '10:0-18:0'}",a395
+"{'Tuesday': '10:0-17:0', 'Wednesday': '10:0-17:0', 'Thursday': '10:0-17:0', 'Friday': '10:0-17:0', 'Saturday': '10:0-17:0'}",a396
+"{'Monday': '9:0-21:0', 'Tuesday': '9:0-21:0', 'Wednesday': '9:0-21:0', 'Thursday': '9:0-21:0', 'Friday': '9:0-21:0', 'Saturday': '9:0-21:0', 'Sunday': '10:0-20:0'}",a397
+"{'Monday': '0:0-0:0', 'Tuesday': '10:0-19:0', 'Wednesday': '10:0-21:0', 'Thursday': '10:0-21:0', 'Friday': '10:0-19:0', 'Saturday': '10:0-19:0', 'Sunday': '10:0-19:0'}",a398
+{'Monday': '0:0-0:0'},a399
+"{'Monday': '0:0-0:0', 'Tuesday': '11:0-21:0', 'Wednesday': '11:0-16:0', 'Thursday': '11:0-21:0', 'Friday': '11:0-19:0', 'Saturday': '10:0-18:0', 'Sunday': '10:0-18:0'}",a400
+"{'Monday': '0:0-0:0', 'Tuesday': '9:30-19:0', 'Wednesday': '9:30-19:0', 'Thursday': '9:30-17:0', 'Friday': '9:30-19:0', 'Saturday': '9:0-18:0'}",a401
+"{'Monday': '9:0-23:0', 'Tuesday': '9:0-23:0', 'Wednesday': '9:0-23:0', 'Thursday': '9:0-23:0', 'Friday': '9:0-1:0', 'Saturday': '9:0-1:0', 'Sunday': '9:0-23:0'}",a402
+"{'Tuesday': '10:0-20:0', 'Wednesday': '10:0-20:0', 'Thursday': '10:0-20:0', 'Friday': '9:0-19:0', 'Saturday': '9:0-17:0'}",a403
+"{'Monday': '10:0-19:0', 'Wednesday': '10:0-19:0', 'Thursday': '10:0-19:0', 'Friday': '10:0-19:0', 'Saturday': '10:0-19:0'}",a404
+"{'Monday': '9:0-19:0', 'Tuesday': '9:0-19:0', 'Wednesday': '9:0-19:0', 'Thursday': '9:0-19:0', 'Friday': '9:0-19:0', 'Saturday': '9:0-17:0'}",a405
+"{'Monday': '9:30-19:30', 'Tuesday': '9:30-19:30', 'Wednesday': '9:30-19:30', 'Thursday': '9:30-19:30', 'Friday': '9:30-19:30', 'Saturday': '9:0-19:0', 'Sunday': '11:0-16:30'}",a406
+"{'Monday': '10:0-20:30', 'Tuesday': '10:0-20:30', 'Wednesday': '10:0-20:30', 'Thursday': '10:0-20:30', 'Friday': '10:0-20:30', 'Saturday': '10:0-20:30', 'Sunday': '12:0-17:30'}",a407
+"{'Monday': '0:0-0:0', 'Tuesday': '10:0-19:30', 'Wednesday': '10:0-19:30', 'Thursday': '10:0-19:30', 'Friday': '10:0-19:30', 'Saturday': '10:0-19:0', 'Sunday': '10:0-19:30'}",a408
+"{'Tuesday': '9:0-18:0', 'Wednesday': '9:0-19:0', 'Thursday': '9:0-19:0', 'Friday': '9:0-15:0', 'Saturday': '8:0-14:0'}",a409
+"{'Tuesday': '9:0-19:0', 'Wednesday': '11:0-17:0', 'Thursday': '9:0-19:0', 'Friday': '9:0-17:0', 'Saturday': '9:0-15:0'}",a410
+"{'Monday': '10:0-19:0', 'Tuesday': '10:0-19:0', 'Wednesday': '10:0-19:0', 'Thursday': '10:0-19:0', 'Friday': '9:30-19:30', 'Saturday': '9:30-19:30'}",a411
+"{'Monday': '10:0-19:0', 'Tuesday': '10:0-19:0', 'Wednesday': '10:0-19:0', 'Thursday': '10:0-19:0', 'Friday': '10:0-19:0', 'Saturday': '9:0-18:0'}",a412
+"{'Monday': '9:30-19:0', 'Tuesday': '9:30-19:0', 'Wednesday': '9:30-19:0', 'Thursday': '9:30-19:0', 'Friday': '9:30-19:0', 'Saturday': '9:30-19:0', 'Sunday': '10:30-17:0'}",a413
+"{'Monday': '9:30-19:30', 'Tuesday': '9:30-19:30', 'Wednesday': '9:30-19:30', 'Thursday': '9:0-19:30', 'Friday': '9:0-19:30', 'Saturday': '9:0-19:0', 'Sunday': '10:30-17:0'}",a414
+"{'Monday': '0:0-0:0', 'Tuesday': '10:0-19:0', 'Wednesday': '10:0-19:0', 'Thursday': '10:0-19:0', 'Friday': '10:0-19:0', 'Saturday': '9:30-19:0', 'Sunday': '11:0-17:0'}",a415
+"{'Monday': '9:0-19:30', 'Tuesday': '9:0-19:30', 'Wednesday': '9:0-19:30', 'Thursday': '9:0-19:30', 'Friday': '9:0-19:30', 'Saturday': '9:0-19:0', 'Sunday': '11:0-17:0'}",a416
+"{'Tuesday': '10:0-20:0', 'Wednesday': '10:0-20:0', 'Thursday': '10:0-20:0', 'Friday': '10:0-18:0', 'Saturday': '9:0-17:0', 'Sunday': '12:0-17:0'}",a417
+"{'Monday': '10:0-19:0', 'Tuesday': '10:0-19:0', 'Wednesday': '10:0-19:0', 'Thursday': '10:0-19:0', 'Friday': '10:0-19:0', 'Saturday': '9:0-19:0', 'Sunday': '11:0-17:0'}",a418
+"{'Monday': '10:0-19:0', 'Tuesday': '10:0-19:0', 'Wednesday': '10:0-19:0', 'Thursday': '10:0-19:0', 'Friday': '9:0-19:0', 'Saturday': '9:0-18:0', 'Sunday': '11:0-17:0'}",a419
+"{'Monday': '9:30-19:0', 'Tuesday': '9:0-19:0', 'Wednesday': '9:0-19:0', 'Thursday': '9:0-19:0', 'Friday': '9:0-19:0', 'Saturday': '9:0-19:0'}",a420
+"{'Monday': '9:30-18:30', 'Tuesday': '9:30-18:30', 'Wednesday': '9:30-18:30', 'Thursday': '9:30-18:30', 'Friday': '9:30-18:30', 'Saturday': '9:30-18:0'}",a421
+"{'Tuesday': '10:0-18:0', 'Wednesday': '10:0-18:0', 'Thursday': '10:0-18:0', 'Friday': '10:0-18:0', 'Saturday': '10:0-17:0'}",a422
+"{'Tuesday': '9:0-21:0', 'Wednesday': '9:0-21:0', 'Thursday': '9:0-21:0', 'Friday': '9:0-19:0', 'Saturday': '8:0-19:0'}",a423
+"{'Monday': '0:0-0:0', 'Tuesday': '9:30-19:30', 'Wednesday': '9:30-19:30', 'Thursday': '9:30-19:30', 'Friday': '11:0-19:30', 'Saturday': '9:0-18:0', 'Sunday': '11:0-16:0'}",a424
+"{'Tuesday': '10:0-18:0', 'Wednesday': '10:0-18:0', 'Thursday': '10:0-18:0', 'Friday': '10:0-18:0', 'Saturday': '10:0-18:0'}",a425
+"{'Monday': '0:0-0:0', 'Wednesday': '9:30-19:30', 'Thursday': '9:30-19:30', 'Friday': '9:30-19:30', 'Saturday': '9:0-19:0', 'Sunday': '11:0-17:0'}",a426
+"{'Monday': '10:0-19:30', 'Tuesday': '10:0-19:30', 'Wednesday': '10:0-19:30', 'Thursday': '10:0-19:30', 'Friday': '10:0-19:30', 'Saturday': '10:0-19:30', 'Sunday': '11:0-17:0'}",a427
+"{'Monday': '9:0-18:0', 'Tuesday': '9:0-18:0', 'Wednesday': '9:0-18:0', 'Thursday': '9:0-19:0', 'Friday': '9:0-17:0', 'Saturday': '9:0-15:0'}",a428
+"{'Monday': '9:0-19:0', 'Tuesday': '10:0-21:30', 'Wednesday': '10:0-21:30', 'Thursday': '10:0-21:30', 'Friday': '9:0-18:30', 'Saturday': '9:0-17:0', 'Sunday': '9:0-18:30'}",a429
+"{'Monday': '0:0-0:0', 'Tuesday': '10:0-21:0', 'Wednesday': '10:0-21:0', 'Thursday': '10:0-21:0', 'Friday': '10:0-21:0', 'Saturday': '10:0-21:0', 'Sunday': '10:0-18:0'}",a430
+"{'Monday': '10:0-19:0', 'Tuesday': '9:0-20:0', 'Wednesday': '9:0-20:0', 'Thursday': '9:0-20:0', 'Friday': '9:0-20:0', 'Saturday': '9:0-20:0', 'Sunday': '12:0-18:0'}",a431
+"{'Monday': '0:0-0:0', 'Tuesday': '9:0-18:0', 'Wednesday': '9:0-18:0', 'Thursday': '9:0-16:0', 'Friday': '9:0-18:0', 'Saturday': '9:0-18:0'}",a432
+"{'Tuesday': '9:0-19:0', 'Wednesday': '9:0-19:0', 'Thursday': '9:0-19:0', 'Friday': '9:0-19:0', 'Saturday': '9:0-17:0', 'Sunday': '9:0-17:0'}",a433
+"{'Tuesday': '9:0-19:30', 'Wednesday': '9:0-19:30', 'Thursday': '9:0-19:30', 'Friday': '9:0-17:0', 'Saturday': '9:0-17:0'}",a434
+"{'Monday': '9:30-19:0', 'Tuesday': '9:30-19:0', 'Wednesday': '9:30-19:0', 'Thursday': '9:30-19:0', 'Friday': '9:30-19:0', 'Saturday': '9:30-18:30', 'Sunday': '11:0-17:0'}",a435
+"{'Monday': '9:30-18:0', 'Wednesday': '9:30-18:0', 'Thursday': '9:30-18:0', 'Friday': '9:30-18:0', 'Saturday': '9:0-18:0', 'Sunday': '11:0-16:0'}",a436
+"{'Monday': '9:0-17:0', 'Tuesday': '8:30-19:0', 'Wednesday': '8:30-19:0', 'Thursday': '8:30-19:0', 'Friday': '8:30-19:0', 'Saturday': '8:30-17:0', 'Sunday': '9:30-17:0'}",a437
+"{'Monday': '10:0-19:0', 'Tuesday': '10:0-19:0', 'Wednesday': '10:0-19:0', 'Thursday': '10:0-19:0', 'Friday': '9:0-19:0', 'Saturday': '9:0-19:0', 'Sunday': '12:0-17:0'}",a438
+"{'Monday': '9:0-19:0', 'Tuesday': '9:0-19:0', 'Wednesday': '9:0-19:0', 'Thursday': '9:0-19:0', 'Friday': '9:0-17:0', 'Saturday': '9:0-15:0'}",a439
+"{'Monday': '0:0-0:0', 'Tuesday': '12:0-19:0', 'Wednesday': '9:30-19:0', 'Thursday': '9:30-19:0', 'Friday': '9:30-19:0', 'Saturday': '9:30-19:0', 'Sunday': '11:0-16:0'}",a440
+"{'Monday': '0:0-0:0', 'Tuesday': '9:30-19:30', 'Wednesday': '9:30-19:30', 'Thursday': '9:30-19:30', 'Friday': '9:30-17:30', 'Saturday': '9:30-18:0', 'Sunday': '11:0-17:0'}",a441
+"{'Monday': '10:0-19:30', 'Tuesday': '10:0-19:30', 'Wednesday': '10:0-19:30', 'Thursday': '10:0-19:30', 'Friday': '10:0-19:30', 'Saturday': '9:0-18:0', 'Sunday': '10:0-17:0'}",a442
+"{'Monday': '0:0-0:0', 'Tuesday': '10:0-19:0', 'Wednesday': '10:0-19:0', 'Thursday': '10:0-19:0', 'Friday': '10:0-19:0', 'Saturday': '10:0-19:0', 'Sunday': '10:30-17:30'}",a443
+"{'Monday': '0:0-0:0', 'Tuesday': '10:0-18:0', 'Wednesday': '10:0-18:0', 'Thursday': '10:0-18:0', 'Friday': '10:0-14:0', 'Saturday': '10:0-16:0'}",a444
+"{'Monday': '0:0-0:0', 'Tuesday': '10:0-19:0', 'Wednesday': '10:0-19:0', 'Thursday': '10:0-19:0', 'Friday': '10:0-19:0', 'Saturday': '9:0-16:0'}",a445
+"{'Monday': '10:0-18:0', 'Tuesday': '9:0-20:0', 'Wednesday': '9:0-20:0', 'Thursday': '9:0-20:0', 'Friday': '9:0-20:0', 'Saturday': '9:0-20:0', 'Sunday': '10:0-18:0'}",a446
+"{'Tuesday': '9:0-19:0', 'Wednesday': '9:0-19:0', 'Thursday': '9:0-19:0', 'Friday': '9:0-19:0', 'Saturday': '9:0-18:0', 'Sunday': '11:0-17:0'}",a447
+"{'Tuesday': '9:30-19:30', 'Wednesday': '9:30-19:30', 'Thursday': '9:30-19:30', 'Friday': '9:30-19:30', 'Saturday': '9:0-19:0', 'Sunday': '11:0-17:0'}",a448
+"{'Monday': '0:0-0:0', 'Tuesday': '9:0-20:0', 'Wednesday': '9:0-20:0', 'Thursday': '9:0-16:0', 'Friday': '9:0-20:0', 'Saturday': '9:0-19:0', 'Sunday': '11:0-17:0'}",a449
+"{'Monday': '0:0-0:0', 'Tuesday': '10:0-19:30', 'Wednesday': '10:0-19:30', 'Thursday': '10:0-19:30', 'Friday': '10:0-19:30', 'Saturday': '10:0-19:30', 'Sunday': '11:0-17:0'}",a450
+"{'Tuesday': '8:30-18:0', 'Wednesday': '8:30-18:0', 'Thursday': '8:30-18:0', 'Friday': '8:30-18:0', 'Saturday': '8:30-18:0', 'Sunday': '10:0-18:0'}",a451
+"{'Monday': '8:30-19:30', 'Tuesday': '8:30-19:30', 'Wednesday': '8:30-19:30', 'Thursday': '8:30-19:30', 'Friday': '8:30-19:30', 'Saturday': '8:30-19:30', 'Sunday': '9:0-17:0'}",a452
+"{'Monday': '9:30-19:30', 'Tuesday': '9:30-19:30', 'Wednesday': '9:30-19:30', 'Thursday': '9:30-19:30', 'Friday': '9:30-19:30', 'Saturday': '9:0-19:30', 'Sunday': '10:0-17:0'}",a453
+"{'Monday': '0:0-0:0', 'Tuesday': '10:0-20:0', 'Wednesday': '10:0-20:0', 'Thursday': '9:0-21:0', 'Friday': '9:0-15:0', 'Saturday': '9:0-17:0'}",a454
+"{'Monday': '9:30-19:30', 'Tuesday': '9:30-19:30', 'Wednesday': '9:30-19:30', 'Thursday': '9:30-19:30', 'Friday': '9:30-19:30', 'Saturday': '9:30-18:30', 'Sunday': '11:30-17:0'}",a455
+"{'Tuesday': '9:30-18:0', 'Wednesday': '9:30-18:0', 'Thursday': '9:30-18:0', 'Friday': '9:30-18:0', 'Saturday': '9:30-16:0', 'Sunday': '11:0-16:0'}",a456
+"{'Monday': '0:0-0:0', 'Tuesday': '9:0-19:0', 'Wednesday': '9:0-19:0', 'Thursday': '9:0-19:0', 'Friday': '9:0-17:0', 'Saturday': '9:0-18:0', 'Sunday': '11:0-16:0'}",a457
+"{'Monday': '10:0-21:0', 'Wednesday': '10:0-21:0', 'Thursday': '10:0-14:0', 'Friday': '10:0-21:0', 'Saturday': '9:0-20:0', 'Sunday': '10:0-16:0'}",a458
+"{'Tuesday': '10:0-18:30', 'Wednesday': '10:0-18:30', 'Thursday': '10:0-18:30'}",a459
+"{'Monday': '0:0-0:0', 'Tuesday': '9:0-19:0', 'Wednesday': '9:0-19:0', 'Thursday': '9:0-19:0', 'Friday': '9:0-19:0', 'Saturday': '9:0-18:0', 'Sunday': '11:0-16:0'}",a460
+"{'Monday': '0:0-0:0', 'Tuesday': '10:0-20:0', 'Wednesday': '10:0-20:0', 'Thursday': '10:0-20:0', 'Friday': '10:0-18:0', 'Saturday': '9:0-16:0'}",a461
+"{'Monday': '9:0-19:0', 'Tuesday': '9:30-15:0', 'Wednesday': '9:0-19:0', 'Thursday': '9:0-19:0', 'Friday': '9:0-19:0', 'Saturday': '9:0-19:0', 'Sunday': '10:0-17:0'}",a462
+"{'Monday': '9:30-21:0', 'Tuesday': '10:0-21:0', 'Wednesday': '10:0-21:0', 'Thursday': '10:0-21:0', 'Friday': '10:0-21:0', 'Saturday': '10:0-21:0', 'Sunday': '11:0-19:0'}",a463
+"{'Monday': '0:0-0:0', 'Tuesday': '10:0-19:0', 'Wednesday': '10:0-19:0', 'Thursday': '10:0-19:0', 'Friday': '10:0-19:0', 'Saturday': '10:0-19:0'}",a464
+"{'Monday': '0:0-0:0', 'Tuesday': '8:0-18:0', 'Wednesday': '8:0-14:0', 'Thursday': '8:0-18:0', 'Friday': '8:0-14:0', 'Saturday': '8:0-14:0'}",a465
+"{'Monday': '0:0-0:0', 'Tuesday': '9:30-19:0', 'Wednesday': '9:30-18:0', 'Thursday': '9:30-19:0', 'Friday': '9:30-19:0', 'Saturday': '9:30-19:0'}",a466
+"{'Monday': '9:30-19:30', 'Tuesday': '9:30-19:30', 'Wednesday': '9:30-19:30', 'Thursday': '9:30-19:30', 'Friday': '9:0-19:30', 'Saturday': '9:0-17:0', 'Sunday': '11:0-17:0'}",a467
+"{'Monday': '9:0-20:0', 'Tuesday': '9:0-20:0', 'Wednesday': '9:0-20:0', 'Thursday': '9:0-20:0', 'Friday': '9:0-20:0', 'Saturday': '9:0-19:0', 'Sunday': '11:0-18:0'}",a468
+"{'Tuesday': '10:30-19:0', 'Wednesday': '10:30-19:0', 'Thursday': '10:30-19:0', 'Friday': '10:30-19:0', 'Saturday': '10:0-19:0'}",a469
+"{'Monday': '0:0-0:0', 'Tuesday': '7:0-22:0', 'Wednesday': '7:0-14:0', 'Thursday': '10:0-18:0', 'Friday': '9:0-20:0', 'Saturday': '9:0-20:0', 'Sunday': '10:0-20:0'}",a470
+"{'Tuesday': '9:0-17:0', 'Wednesday': '9:0-20:0', 'Thursday': '9:0-20:0', 'Friday': '9:0-20:0', 'Saturday': '9:0-16:0'}",a471
+"{'Monday': '0:0-0:0', 'Tuesday': '9:30-17:0', 'Wednesday': '9:30-19:0', 'Thursday': '9:30-19:0', 'Friday': '14:0-19:0', 'Saturday': '9:30-18:0'}",a472
+"{'Monday': '0:0-0:0', 'Tuesday': '9:0-20:0', 'Wednesday': '9:0-20:0', 'Thursday': '9:0-15:0', 'Friday': '9:0-18:0', 'Saturday': '9:0-16:0'}",a473
+"{'Monday': '10:0-19:0', 'Tuesday': '10:0-19:0', 'Wednesday': '10:0-19:0', 'Thursday': '10:0-19:0', 'Friday': '10:0-19:0', 'Saturday': '9:30-18:0', 'Sunday': '11:0-17:0'}",a474
