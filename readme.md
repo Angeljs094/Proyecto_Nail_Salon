@@ -47,14 +47,9 @@ Scrum es un marco ágil que se enfoca en la entrega iterativa y flexible de proy
 ![Imagen de EDA](https://github.com/Angeljs094/Proyecto_Nail_Salon/blob/main/img/EDA.jpg)
 
 # KPI's
-![Imagen de KPIS1](https://github.com/Angeljs094/Proyecto_Nail_Salon/blob/main/img/.png)
+![Imagen de KPIS1](https://github.com/Angeljs094/Proyecto_Nail_Salon/blob/main/img/Dashboard.png)
 ![Imagen de KPIS3](https://github.com/Angeljs094/Proyecto_Nail_Salon/blob/main/img/KPI.png)
 
-# Roles 
-* Lider del proyecto: Angel 
-* Ingeniero de datos: Angel, Juan y Jose 
-* Analista de datos: Katia y Bryam 
-* Data scientist: Juan y JOse 
 
 # Modelos Entidad relación 
 ![Imagen_de_ER](https://github.com/Angeljs094/Proyecto_Nail_Salon/blob/main/img/modelo_ER.jpg)
@@ -70,3 +65,10 @@ Scrum es un marco ágil que se enfoca en la entrega iterativa y flexible de proy
 
 # Modelo de ML 
 ![Imagen_de_ML](https://github.com/Angeljs094/Proyecto_Nail_Salon/blob/main/img/ML.jpg)
+
+
+# Roles 
+* Lider del proyecto: Angel 
+* Ingeniero de datos: Angel, Juan y Jose 
+* Analista de datos: Katia y Bryam 
+* Data scientist: Juan y Jose 
