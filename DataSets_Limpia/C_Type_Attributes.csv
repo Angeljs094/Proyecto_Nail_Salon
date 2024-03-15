@@ -1,0 +1,7 @@
+type_attributes_id,name_attributes
+t-001,businessacceptscreditcards
+t-002,carparking
+t-003,bikeparking
+t-004,wifi
+t-005,food
+t-006,byappointmentonly
