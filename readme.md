@@ -39,7 +39,7 @@ En resumen, la creación de una "Plataforma de Asesoramiento en Belleza y Bienes
 Scrum es un marco ágil que se enfoca en la entrega iterativa y flexible de proyectos. Los roles clave incluyen al Product Owner, quien representa las necesidades del cliente, al Scrum Master, que facilita el proceso, y al Equipo de Desarrollo, encargado de ejecutar el trabajo. Scrum se centra en eventos clave como los Sprints, reuniones de planificación y revisiones, y artefactos como el Product Backlog y el Sprint Backlog para proporcionar transparencia, adaptabilidad y colaboración continua en la gestión de proyectos.
 
 # Cronograma de Gantt 
-![imagen de cronograma gantt](https://github.com/Angeljs094/Proyecto_Nail_Salon/blob/main/img/Diagrama de Gantt.png)
+![imagen de cronograma gantt](https://github.com/Angeljs094/Proyecto_Nail_Salon/blob/main/img/Diagrama_Gantt.png)
 
 # Tecnologias a usar 
 ![Imagen de cloud](https://github.com/Angeljs094/Proyecto_Nail_Salon/blob/main/img/cloud.jpg)
@@ -47,9 +47,8 @@ Scrum es un marco ágil que se enfoca en la entrega iterativa y flexible de proy
 ![Imagen de EDA](https://github.com/Angeljs094/Proyecto_Nail_Salon/blob/main/img/EDA.jpg)
 
 # KPI's
-![Imagen de KPIS1](https://github.com/Angeljs094/Proyecto_Nail_Salon/blob/main/img/primer kpi.jpg)
-![Imagen de KPIS2](https://github.com/Angeljs094/Proyecto_Nail_Salon/blob/main/img/segundo kpi.jpg)
-![Imagen de KPIS3](https://github.com/Angeljs094/Proyecto_Nail_Salon/blob/main/img/tercer kpi.jpg)
+![Imagen de KPIS1](https://github.com/Angeljs094/Proyecto_Nail_Salon/blob/main/img/.png)
+![Imagen de KPIS3](https://github.com/Angeljs094/Proyecto_Nail_Salon/blob/main/img/KPI.png)
 
 # Roles 
 * Lider del proyecto: Angel 
@@ -58,16 +57,16 @@ Scrum es un marco ágil que se enfoca en la entrega iterativa y flexible de proy
 * Data scientist: Juan y JOse 
 
 # Modelos Entidad relación 
-![Imagen_de_ER](https://github.com/Angeljs094/Proyecto_Nail_Salon/tree/main/img/ER.png)
+![Imagen_de_ER](https://github.com/Angeljs094/Proyecto_Nail_Salon/blob/main/img/modelo_ER.jpg)
 
 # ETL
-![Imagen_de_ETL](https://github.com/Angeljs094/Proyecto_Nail_Salon/tree/main/img/ETL2.jpg)
+![Imagen_de_ETL](https://github.com/Angeljs094/Proyecto_Nail_Salon/blob/main/img/ETL2.jpg)
 
 # Procesos en GCP
-![Imagen_de_GCP](https://github.com/Angeljs094/Proyecto_Nail_Salon/tree/main/img/cloud_gcp.jpg)
+![Imagen_de_GCP](https://github.com/Angeljs094/Proyecto_Nail_Salon/blob/main/img/cloud_gcp.jpg)
 
 # Analytics
-![Imagen_de_Analitica](https://github.com/Angeljs094/Proyecto_Nail_Salon/tree/main/img/analisis.jpg)
+![Imagen_de_Analitica](https://github.com/Angeljs094/Proyecto_Nail_Salon/blob/main/img/analisis.jpg)
 
 # Modelo de ML 
-![Imagen_de_ML](https://github.com/Angeljs094/Proyecto_Nail_Salon/tree/main/img/ML.jpg)
+![Imagen_de_ML](https://github.com/Angeljs094/Proyecto_Nail_Salon/blob/main/img/ML.jpg)
